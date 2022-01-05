@@ -1,0 +1,1297 @@
+Well,Row,Column,Electrophile,Electrophile_Equiv,umol_Screen,Nucleophile,Nucleophile_Equiv,Base,Base_Equiv,Solvent,Volumes,Temp_C,Time_h,AP_PDT,Step,Reaction_Round,Lewis_Acid,Lewis_Acid_Equiv,Substrate,Activator_Equiv,Activator,Precatalyst,Precatalyst_Equiv,Ligand,Ligand_Equiv,Solvent_uL,AP_Electrophile
+1,A,1,Aniline,1,110,Piperidine,2,1-Methylimidazole,3,NMP,10,60,5,12.70983967,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3,A,3,Aniline,1,110,Piperidine,2,1-Methylimidazole,3,Sulfolane,10,60,5,8.991570403,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5,A,5,Aniline,1,110,Piperidine,2,1-Methylimidazole,3,DMSO,10,60,5,30.81718306,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,A,7,Aniline,1,110,Piperidine,2,1-Methylimidazole,3,Anisole,10,60,5,2.81631767,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,A,9,Aniline,1,110,Piperidine,2,1-Methylimidazole,3,Diglyme,10,60,5,2.294992011,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11,A,11,Aniline,1,110,Piperidine,2,1-Methylimidazole,3,TMU,10,60,5,5.380118744,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,B,2,Aniline,1,110,Piperidine,2,LiOAc,3,NMP,10,60,5,11.4923353,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,B,4,Aniline,1,110,Piperidine,2,LiOAc,3,Sulfolane,10,60,5,5.529824122,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,B,6,Aniline,1,110,Piperidine,2,LiOAc,3,DMSO,10,60,5,30.50963872,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,B,8,Aniline,1,110,Piperidine,2,LiOAc,3,Anisole,10,60,5,1.114875512,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22,B,10,Aniline,1,110,Piperidine,2,LiOAc,3,Diglyme,10,60,5,1.03011349,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,B,12,Aniline,1,110,Piperidine,2,LiOAc,3,TMU,10,60,5,4.318188734,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25,C,1,Aniline,1,110,Piperidine,2,Ca(OAc)2,3,NMP,10,60,5,11.26115264,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,C,2,Aniline,1,110,Piperidine,2,CaCO3-H2O,3,NMP,10,60,5,11.50977753,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,C,3,Aniline,1,110,Piperidine,2,Ca(OAc)2,3,Sulfolane,10,60,5,5.349008312,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28,C,4,Aniline,1,110,Piperidine,2,CaCO3-H2O,3,Sulfolane,10,60,5,5.489982069,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+29,C,5,Aniline,1,110,Piperidine,2,Ca(OAc)2,3,DMSO,10,60,5,29.36310361,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30,C,6,Aniline,1,110,Piperidine,2,CaCO3-H2O,3,DMSO,10,60,5,31.46276842,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+31,C,7,Aniline,1,110,Piperidine,2,Ca(OAc)2,3,Anisole,10,60,5,1.011569209,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+32,C,8,Aniline,1,110,Piperidine,2,CaCO3-H2O,3,Anisole,10,60,5,0.911662999,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33,C,9,Aniline,1,110,Piperidine,2,Ca(OAc)2,3,Diglyme,10,60,5,0.905764985,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,C,10,Aniline,1,110,Piperidine,2,CaCO3-H2O,3,Diglyme,10,60,5,0.943244374,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35,C,11,Aniline,1,110,Piperidine,2,Ca(OAc)2,3,TMU,10,60,5,4.123962537,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+36,C,12,Aniline,1,110,Piperidine,2,CaCO3-H2O,3,TMU,10,60,5,4.377268706,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37,D,1,Aniline,1,110,Piperidine,2,KHCO3,3,NMP,10,60,5,11.39424429,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38,D,2,Aniline,1,110,Piperidine,2,K2CO3,3,NMP,10,60,5,12.37462387,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39,D,3,Aniline,1,110,Piperidine,2,KHCO3,3,Sulfolane,10,60,5,5.863489169,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40,D,4,Aniline,1,110,Piperidine,2,K2CO3,3,Sulfolane,10,60,5,6.91459276,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+41,D,5,Aniline,1,110,Piperidine,2,KHCO3,3,DMSO,10,60,5,29.10742134,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,D,6,Aniline,1,110,Piperidine,2,K2CO3,3,DMSO,10,60,5,33.6393812,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+43,D,7,Aniline,1,110,Piperidine,2,KHCO3,3,Anisole,10,60,5,0.612791497,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+44,D,8,Aniline,1,110,Piperidine,2,K2CO3,3,Anisole,10,60,5,0.473961381,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+45,D,9,Aniline,1,110,Piperidine,2,KHCO3,3,Diglyme,10,60,5,0.76206741,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,D,10,Aniline,1,110,Piperidine,2,K2CO3,3,Diglyme,10,60,5,0.716323091,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+47,D,11,Aniline,1,110,Piperidine,2,KHCO3,3,TMU,10,60,5,4.230144144,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48,D,12,Aniline,1,110,Piperidine,2,K2CO3,3,TMU,10,60,5,4.528806553,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+49,E,1,Aniline,1,110,Piperidine,2,NaHCO3,3,NMP,10,60,5,11.16748869,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+50,E,2,Aniline,1,110,Piperidine,2,Na2CO3,3,NMP,10,60,5,11.65552497,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+51,E,3,Aniline,1,110,Piperidine,2,NaHCO3,3,Sulfolane,10,60,5,5.32606647,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+52,E,4,Aniline,1,110,Piperidine,2,Na2CO3,3,Sulfolane,10,60,5,5.43527821,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+53,E,5,Aniline,1,110,Piperidine,2,NaHCO3,3,DMSO,10,60,5,27.81840109,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+54,E,6,Aniline,1,110,Piperidine,2,Na2CO3,3,DMSO,10,60,5,31.44600754,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+55,E,7,Aniline,1,110,Piperidine,2,NaHCO3,3,Anisole,10,60,5,0.828177618,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+56,E,8,Aniline,1,110,Piperidine,2,Na2CO3,3,Anisole,10,60,5,0.77923095,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+57,E,9,Aniline,1,110,Piperidine,2,NaHCO3,3,Diglyme,10,60,5,0.846745524,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+58,E,10,Aniline,1,110,Piperidine,2,Na2CO3,3,Diglyme,10,60,5,0.848704311,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+59,E,11,Aniline,1,110,Piperidine,2,NaHCO3,3,TMU,10,60,5,4.280125913,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+60,E,12,Aniline,1,110,Piperidine,2,Na2CO3,3,TMU,10,60,5,4.284972828,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+61,F,1,Aniline,1,110,Piperidine,2,Mg(OAc)2-4H2O,3,NMP,10,60,5,6.812505927,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+62,F,2,Aniline,1,110,Piperidine,2,MgCO3,3,NMP,10,60,5,11.38299053,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+63,F,3,Aniline,1,110,Piperidine,2,Mg(OAc)2-4H2O,3,Sulfolane,10,60,5,4.643053483,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+64,F,4,Aniline,1,110,Piperidine,2,MgCO3,3,Sulfolane,10,60,5,5.425148381,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+65,F,5,Aniline,1,110,Piperidine,2,Mg(OAc)2-4H2O,3,DMSO,10,60,5,21.021147,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+66,F,6,Aniline,1,110,Piperidine,2,MgCO3,3,DMSO,10,60,5,31.59694412,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+67,F,7,Aniline,1,110,Piperidine,2,Mg(OAc)2-4H2O,3,Anisole,10,60,5,0.572116238,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+68,F,8,Aniline,1,110,Piperidine,2,MgCO3,3,Anisole,10,60,5,0.753763886,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+69,F,9,Aniline,1,110,Piperidine,2,Mg(OAc)2-4H2O,3,Diglyme,10,60,5,0.68541754,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+70,F,10,Aniline,1,110,Piperidine,2,MgCO3,3,Diglyme,10,60,5,0.873468202,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+71,F,11,Aniline,1,110,Piperidine,2,Mg(OAc)2-4H2O,3,TMU,10,60,5,2.26216772,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+72,F,12,Aniline,1,110,Piperidine,2,MgCO3,3,TMU,10,60,5,4.301780837,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+85,H,1,Aniline,1,110,Piperidine,2,Ti(OMe)4,3,NMP,10,60,5,11.12890825,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+87,H,3,Aniline,1,110,Piperidine,2,Ti(OMe)4,3,Sulfolane,10,60,5,4.071710245,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+89,H,5,Aniline,1,110,Piperidine,2,Ti(OMe)4,3,DMSO,10,60,5,29.30336168,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+91,H,7,Aniline,1,110,Piperidine,2,Ti(OMe)4,3,Anisole,10,60,5,0.603156242,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+93,H,9,Aniline,1,110,Piperidine,2,Ti(OMe)4,3,Diglyme,10,60,5,0.616729836,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+95,H,11,Aniline,1,110,Piperidine,2,Ti(OMe)4,3,TMU,10,60,5,4.150447946,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,A,1,Aniline,1,110,Piperidine,2,1-Methylimidazole,3,NMP,10,60,5,67.56338548,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3,A,3,Aniline,1,110,Piperidine,2,1-Methylimidazole,3,Sulfolane,10,60,5,64.63146237,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5,A,5,Aniline,1,110,Piperidine,2,1-Methylimidazole,3,DMSO,10,60,5,85.37170589,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,A,7,Aniline,1,110,Piperidine,2,1-Methylimidazole,3,Anisole,10,60,5,18.83373615,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,A,9,Aniline,1,110,Piperidine,2,1-Methylimidazole,3,Diglyme,10,60,5,21.15465655,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11,A,11,Aniline,1,110,Piperidine,2,1-Methylimidazole,3,TMU,10,60,5,42.459021129999996,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,B,2,Aniline,1,110,Piperidine,2,LiOAc,3,NMP,10,100,20,66.27736386,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,B,4,Aniline,1,110,Piperidine,2,LiOAc,3,Sulfolane,10,100,20,0,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,B,6,Aniline,1,110,Piperidine,2,LiOAc,3,DMSO,10,100,20,87.02186355,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,B,8,Aniline,1,110,Piperidine,2,LiOAc,3,Anisole,10,100,20,8.354460466,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22,B,10,Aniline,1,110,Piperidine,2,LiOAc,3,Diglyme,10,100,20,10.62230717,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,B,12,Aniline,1,110,Piperidine,2,LiOAc,3,TMU,10,100,20,39.22344322,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25,C,1,Aniline,1,110,Piperidine,2,Ca(OAc)2,3,NMP,10,100,20,66.33099825,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,C,2,Aniline,1,110,Piperidine,2,CaCO3-H2O,3,NMP,10,100,20,0,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,C,3,Aniline,1,110,Piperidine,2,Ca(OAc)2,3,Sulfolane,10,100,20,38.31297083,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28,C,4,Aniline,1,110,Piperidine,2,CaCO3-H2O,3,Sulfolane,10,100,20,60.32935424,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+29,C,5,Aniline,1,110,Piperidine,2,Ca(OAc)2,3,DMSO,10,100,20,85.24000875,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30,C,6,Aniline,1,110,Piperidine,2,CaCO3-H2O,3,DMSO,10,100,20,85.89257826,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+31,C,7,Aniline,1,110,Piperidine,2,Ca(OAc)2,3,Anisole,10,100,20,7.334725318,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+32,C,8,Aniline,1,110,Piperidine,2,CaCO3-H2O,3,Anisole,10,100,20,8.72691358,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33,C,9,Aniline,1,110,Piperidine,2,Ca(OAc)2,3,Diglyme,10,100,20,9.18342143,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,C,10,Aniline,1,110,Piperidine,2,CaCO3-H2O,3,Diglyme,10,100,20,9.155170448,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35,C,11,Aniline,1,110,Piperidine,2,Ca(OAc)2,3,TMU,10,100,20,25.74486436,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+36,C,12,Aniline,1,110,Piperidine,2,CaCO3-H2O,3,TMU,10,100,20,40.39638589,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37,D,1,Aniline,1,110,Piperidine,2,KHCO3,3,NMP,10,100,20,67.4310741,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38,D,2,Aniline,1,110,Piperidine,2,K2CO3,3,NMP,10,100,20,70.02743678,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39,D,3,Aniline,1,110,Piperidine,2,KHCO3,3,Sulfolane,10,100,20,63.54101261,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40,D,4,Aniline,1,110,Piperidine,2,K2CO3,3,Sulfolane,10,100,20,68.77338818,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+41,D,5,Aniline,1,110,Piperidine,2,KHCO3,3,DMSO,10,100,20,91.28905982,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,D,6,Aniline,1,110,Piperidine,2,K2CO3,3,DMSO,10,100,20,88.70355078,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+43,D,7,Aniline,1,110,Piperidine,2,KHCO3,3,Anisole,10,100,20,8.991776904,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+44,D,8,Aniline,1,110,Piperidine,2,K2CO3,3,Anisole,10,100,20,0,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+45,D,9,Aniline,1,110,Piperidine,2,KHCO3,3,Diglyme,10,100,20,0,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,D,10,Aniline,1,110,Piperidine,2,K2CO3,3,Diglyme,10,100,20,13.21400032,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+47,D,11,Aniline,1,110,Piperidine,2,KHCO3,3,TMU,10,100,20,42.2834886,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48,D,12,Aniline,1,110,Piperidine,2,K2CO3,3,TMU,10,100,20,43.16825776,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+49,E,1,Aniline,1,110,Piperidine,2,NaHCO3,3,NMP,10,100,20,68.94790894,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+50,E,2,Aniline,1,110,Piperidine,2,Na2CO3,3,NMP,10,100,20,69.93138764,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+51,E,3,Aniline,1,110,Piperidine,2,NaHCO3,3,Sulfolane,10,100,20,61.67996518,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+52,E,4,Aniline,1,110,Piperidine,2,Na2CO3,3,Sulfolane,10,100,20,61.62868829,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+53,E,5,Aniline,1,110,Piperidine,2,NaHCO3,3,DMSO,10,100,20,88.68066996,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+54,E,6,Aniline,1,110,Piperidine,2,Na2CO3,3,DMSO,10,100,20,90.68736448,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+55,E,7,Aniline,1,110,Piperidine,2,NaHCO3,3,Anisole,10,100,20,7.210415201,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+56,E,8,Aniline,1,110,Piperidine,2,Na2CO3,3,Anisole,10,100,20,0,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+57,E,9,Aniline,1,110,Piperidine,2,NaHCO3,3,Diglyme,10,100,20,9.501743815,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+58,E,10,Aniline,1,110,Piperidine,2,Na2CO3,3,Diglyme,10,100,20,9.465268506,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+59,E,11,Aniline,1,110,Piperidine,2,NaHCO3,3,TMU,10,100,20,41.90300852,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+60,E,12,Aniline,1,110,Piperidine,2,Na2CO3,3,TMU,10,100,20,42.10764823,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+61,F,1,Aniline,1,110,Piperidine,2,Mg(OAc)2-4H2O,3,NMP,10,100,20,57.65548138,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+62,F,2,Aniline,1,110,Piperidine,2,MgCO3,3,NMP,10,100,20,67.66906495,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+63,F,3,Aniline,1,110,Piperidine,2,Mg(OAc)2-4H2O,3,Sulfolane,10,100,20,46.35241135,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+64,F,4,Aniline,1,110,Piperidine,2,MgCO3,3,Sulfolane,10,100,20,59.9809454,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+65,F,5,Aniline,1,110,Piperidine,2,Mg(OAc)2-4H2O,3,DMSO,10,100,20,80.69950331,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+66,F,6,Aniline,1,110,Piperidine,2,MgCO3,3,DMSO,10,100,20,87.69764122,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+67,F,7,Aniline,1,110,Piperidine,2,Mg(OAc)2-4H2O,3,Anisole,10,100,20,8.472244064,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+68,F,8,Aniline,1,110,Piperidine,2,MgCO3,3,Anisole,10,100,20,11.25869703,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+69,F,9,Aniline,1,110,Piperidine,2,Mg(OAc)2-4H2O,3,Diglyme,10,100,20,10.8092364,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+70,F,10,Aniline,1,110,Piperidine,2,MgCO3,3,Diglyme,10,100,20,10.10094442,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+71,F,11,Aniline,1,110,Piperidine,2,Mg(OAc)2-4H2O,3,TMU,10,100,20,31.14119636,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+72,F,12,Aniline,1,110,Piperidine,2,MgCO3,3,TMU,10,100,20,39.38620769,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+85,H,1,Aniline,1,110,Piperidine,2,Ti(OMe)4,3,NMP,10,100,20,37.41955167,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+87,H,3,Aniline,1,110,Piperidine,2,Ti(OMe)4,3,Sulfolane,10,100,20,43.39631016,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+89,H,5,Aniline,1,110,Piperidine,2,Ti(OMe)4,3,DMSO,10,100,20,60.58314472,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+91,H,7,Aniline,1,110,Piperidine,2,Ti(OMe)4,3,Anisole,10,100,20,5.681818182,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+93,H,9,Aniline,1,110,Piperidine,2,Ti(OMe)4,3,Diglyme,10,100,20,0,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+95,H,11,Aniline,1,110,Piperidine,2,Ti(OMe)4,3,TMU,10,100,20,19.95329149,SnAr,Round_1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,A,1,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+2,A,2,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Fe(acac)3,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+3,A,3,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+4,A,4,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,IPrCuCl,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+5,A,5,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,La(OTf)3,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+6,A,6,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0.515263936,Indole,Round 1,Ph3PAuCl,0.25,19,NA,NA,NA,NA,NA,NA,NA,NA
+7,A,7,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Rh4(CO)12,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+8,A,8,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Sn(OTf)2,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+9,A,9,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Ti(OMe)4,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+10,A,10,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Yb(OTf)3,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+11,A,11,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Zn(OTf)2,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+12,A,12,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,2.540123004,Indole,Round 1,AgSbF6,0.25,19,NA,NA,NA,NA,NA,NA,NA,NA
+13,B,1,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Cu(OAc)2,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+14,B,2,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Fe(acac)3,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+15,B,3,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Fe(OTf)2,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+16,B,4,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,IPrCuCl,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+17,B,5,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,La(OTf)3,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+18,B,6,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,4.106424503,Indole,Round 1,Ph3PAuCl,0.25,19,NA,NA,NA,NA,NA,NA,NA,NA
+19,B,7,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Rh4(CO)12,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+20,B,8,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Sn(OTf)2,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+21,B,9,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Ti(OMe)4,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+22,B,10,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Yb(OTf)3,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+23,B,11,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Zn(OTf)2,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+24,B,12,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,3.410303217,Indole,Round 1,AgSbF6,0.25,19,NA,NA,NA,NA,NA,NA,NA,NA
+25,C,1,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+26,C,2,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Fe(acac)3,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+27,C,3,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+28,C,4,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,4.167220033,Indole,Round 1,IPrCuCl,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+29,C,5,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,La(OTf)3,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+30,C,6,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Ph3PAuCl,0.25,19,NA,NA,NA,NA,NA,NA,NA,NA
+31,C,7,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Rh4(CO)12,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+32,C,8,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Sn(OTf)2,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+33,C,9,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Ti(OMe)4,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+34,C,10,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Yb(OTf)3,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+35,C,11,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Zn(OTf)2,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+36,C,12,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,AgSbF6,0.25,19,NA,NA,NA,NA,NA,NA,NA,NA
+37,D,1,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+38,D,2,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Fe(acac)3,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+39,D,3,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+40,D,4,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,IPrCuCl,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+41,D,5,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,La(OTf)3,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+42,D,6,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Ph3PAuCl,0.25,19,NA,NA,NA,NA,NA,NA,NA,NA
+43,D,7,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Rh4(CO)12,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+44,D,8,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Sn(OTf)2,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+45,D,9,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Ti(OMe)4,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+46,D,10,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Yb(OTf)3,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+47,D,11,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,5.90950892,Indole,Round 1,Zn(OTf)2,1,19,NA,NA,NA,NA,NA,NA,NA,NA
+48,D,12,3-bromobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,AgSbF6,0.25,19,NA,NA,NA,NA,NA,NA,NA,NA
+49,E,1,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+50,E,2,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Fe(acac)3,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+51,E,3,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+52,E,4,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,3.436969896,Indole,Round 1,IPrCuCl,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+53,E,5,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,La(OTf)3,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+54,E,6,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,3.324032044,Indole,Round 1,Ph3PAuCl,0.25,16,NA,NA,NA,NA,NA,NA,NA,NA
+55,E,7,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,1.910828025,Indole,Round 1,Rh4(CO)12,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+56,E,8,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Sn(OTf)2,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+57,E,9,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,5.282919024,Indole,Round 1,Ti(OMe)4,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+58,E,10,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Yb(OTf)3,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+59,E,11,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Zn(OTf)2,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+60,E,12,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,AgSbF6,0.25,16,NA,NA,NA,NA,NA,NA,NA,NA
+61,F,1,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Cu(OAc)2,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+62,F,2,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Fe(acac)3,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+63,F,3,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Fe(OTf)2,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+64,F,4,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,IPrCuCl,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+65,F,5,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,La(OTf)3,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+66,F,6,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Ph3PAuCl,0.25,16,NA,NA,NA,NA,NA,NA,NA,NA
+67,F,7,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Rh4(CO)12,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+68,F,8,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Sn(OTf)2,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+69,F,9,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Ti(OMe)4,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+70,F,10,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0.51361826,Indole,Round 1,Yb(OTf)3,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+71,F,11,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,1.193632072,Indole,Round 1,Zn(OTf)2,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+72,F,12,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,AgSbF6,0.25,16,NA,NA,NA,NA,NA,NA,NA,NA
+73,G,1,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+74,G,2,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Fe(acac)3,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+75,G,3,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+76,G,4,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,IPrCuCl,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+77,G,5,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,La(OTf)3,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+78,G,6,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Ph3PAuCl,0.25,16,NA,NA,NA,NA,NA,NA,NA,NA
+79,G,7,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Rh4(CO)12,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+80,G,8,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Sn(OTf)2,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+81,G,9,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Ti(OMe)4,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+82,G,10,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Yb(OTf)3,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+83,G,11,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Zn(OTf)2,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+84,G,12,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,AgSbF6,0.25,16,NA,NA,NA,NA,NA,NA,NA,NA
+85,H,1,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+86,H,2,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Fe(acac)3,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+87,H,3,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+88,H,4,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,IPrCuCl,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+89,H,5,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,La(OTf)3,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+90,H,6,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,1.470261801,Indole,Round 1,Ph3PAuCl,0.25,16,NA,NA,NA,NA,NA,NA,NA,NA
+91,H,7,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Rh4(CO)12,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+92,H,8,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Sn(OTf)2,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+93,H,9,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Ti(OMe)4,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+94,H,10,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Yb(OTf)3,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+95,H,11,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Zn(OTf)2,1,16,NA,NA,NA,NA,NA,NA,NA,NA
+96,H,12,3-bromobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,4.885899789,Indole,Round 1,AgSbF6,0.25,16,NA,NA,NA,NA,NA,NA,NA,NA
+97,A,1,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+98,A,2,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Fe(acac)3,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+99,A,3,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+100,A,4,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,IPrCuCl,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+101,A,5,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,La(OTf)3,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+102,A,6,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,1.056902548,Indole,Round 1,Ph3PAuCl,0.25,18,NA,NA,NA,NA,NA,NA,NA,NA
+103,A,7,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Rh4(CO)12,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+104,A,8,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Sn(OTf)2,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+105,A,9,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Ti(OMe)4,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+106,A,10,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Yb(OTf)3,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+107,A,11,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Zn(OTf)2,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+108,A,12,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,3.372734437,Indole,Round 1,AgSbF6,0.25,18,NA,NA,NA,NA,NA,NA,NA,NA
+109,B,1,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Cu(OAc)2,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+110,B,2,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Fe(acac)3,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+111,B,3,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Fe(OTf)2,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+112,B,4,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,IPrCuCl,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+113,B,5,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,La(OTf)3,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+114,B,6,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,1.143558144,Indole,Round 1,Ph3PAuCl,0.25,18,NA,NA,NA,NA,NA,NA,NA,NA
+115,B,7,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Rh4(CO)12,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+116,B,8,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Sn(OTf)2,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+117,B,9,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Ti(OMe)4,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+118,B,10,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Yb(OTf)3,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+119,B,11,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Zn(OTf)2,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+120,B,12,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,AgSbF6,0.25,18,NA,NA,NA,NA,NA,NA,NA,NA
+121,C,1,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+122,C,2,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Fe(acac)3,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+123,C,3,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+124,C,4,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,IPrCuCl,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+125,C,5,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,La(OTf)3,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+126,C,6,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Ph3PAuCl,0.25,18,NA,NA,NA,NA,NA,NA,NA,NA
+127,C,7,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Rh4(CO)12,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+128,C,8,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Sn(OTf)2,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+129,C,9,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Ti(OMe)4,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+130,C,10,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Yb(OTf)3,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+131,C,11,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Zn(OTf)2,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+132,C,12,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,AgSbF6,0.25,18,NA,NA,NA,NA,NA,NA,NA,NA
+133,D,1,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+134,D,2,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Fe(acac)3,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+135,D,3,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+136,D,4,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,IPrCuCl,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+137,D,5,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,La(OTf)3,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+138,D,6,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Ph3PAuCl,0.25,18,NA,NA,NA,NA,NA,NA,NA,NA
+139,D,7,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Rh4(CO)12,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+140,D,8,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Sn(OTf)2,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+141,D,9,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Ti(OMe)4,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+142,D,10,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Yb(OTf)3,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+143,D,11,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Zn(OTf)2,1,18,NA,NA,NA,NA,NA,NA,NA,NA
+144,D,12,3-chlorobut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,AgSbF6,0.25,18,NA,NA,NA,NA,NA,NA,NA,NA
+145,E,1,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+146,E,2,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Fe(acac)3,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+147,E,3,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+148,E,4,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,IPrCuCl,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+149,E,5,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,La(OTf)3,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+150,E,6,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Ph3PAuCl,0.25,15,NA,NA,NA,NA,NA,NA,NA,NA
+151,E,7,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Rh4(CO)12,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+152,E,8,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Sn(OTf)2,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+153,E,9,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Ti(OMe)4,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+154,E,10,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Yb(OTf)3,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+155,E,11,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Zn(OTf)2,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+156,E,12,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,AgSbF6,0.25,15,NA,NA,NA,NA,NA,NA,NA,NA
+157,F,1,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Cu(OAc)2,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+158,F,2,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Fe(acac)3,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+159,F,3,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Fe(OTf)2,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+160,F,4,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,IPrCuCl,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+161,F,5,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,La(OTf)3,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+162,F,6,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0.351082504,Indole,Round 1,Ph3PAuCl,0.25,15,NA,NA,NA,NA,NA,NA,NA,NA
+163,F,7,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Rh4(CO)12,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+164,F,8,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,21.28742801,Indole,Round 1,Sn(OTf)2,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+165,F,9,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Ti(OMe)4,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+166,F,10,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,2.131401145,Indole,Round 1,Yb(OTf)3,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+167,F,11,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Zn(OTf)2,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+168,F,12,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,AgSbF6,0.25,15,NA,NA,NA,NA,NA,NA,NA,NA
+169,G,1,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+170,G,2,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Fe(acac)3,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+171,G,3,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+172,G,4,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,IPrCuCl,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+173,G,5,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,1.731870923,Indole,Round 1,La(OTf)3,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+174,G,6,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Ph3PAuCl,0.25,15,NA,NA,NA,NA,NA,NA,NA,NA
+175,G,7,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Rh4(CO)12,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+176,G,8,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Sn(OTf)2,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+177,G,9,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Ti(OMe)4,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+178,G,10,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,2.398835071,Indole,Round 1,Yb(OTf)3,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+179,G,11,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,1.869298032,Indole,Round 1,Zn(OTf)2,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+180,G,12,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,AgSbF6,0.25,15,NA,NA,NA,NA,NA,NA,NA,NA
+181,H,1,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+182,H,2,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Fe(acac)3,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+183,H,3,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+184,H,4,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,IPrCuCl,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+185,H,5,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,La(OTf)3,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+186,H,6,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Ph3PAuCl,0.25,15,NA,NA,NA,NA,NA,NA,NA,NA
+187,H,7,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Rh4(CO)12,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+188,H,8,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Sn(OTf)2,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+189,H,9,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Ti(OMe)4,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+190,H,10,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Yb(OTf)3,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+191,H,11,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Zn(OTf)2,1,15,NA,NA,NA,NA,NA,NA,NA,NA
+192,H,12,3-chlorobutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,AgSbF6,0.25,15,NA,NA,NA,NA,NA,NA,NA,NA
+193,A,1,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+194,A,2,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Fe(acac)3,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+195,A,3,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+196,A,4,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,IPrCuCl,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+197,A,5,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,La(OTf)3,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+198,A,6,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Ph3PAuCl,0.25,20,NA,NA,NA,NA,NA,NA,NA,NA
+199,A,7,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Rh4(CO)12,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+200,A,8,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Sn(OTf)2,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+201,A,9,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Ti(OMe)4,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+202,A,10,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Yb(OTf)3,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+203,A,11,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Zn(OTf)2,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+204,A,12,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,AgSbF6,0.25,20,NA,NA,NA,NA,NA,NA,NA,NA
+205,B,1,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Cu(OAc)2,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+206,B,2,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Fe(acac)3,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+207,B,3,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Fe(OTf)2,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+208,B,4,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,IPrCuCl,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+209,B,5,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,La(OTf)3,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+210,B,6,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Ph3PAuCl,0.25,20,NA,NA,NA,NA,NA,NA,NA,NA
+211,B,7,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Rh4(CO)12,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+212,B,8,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,49.4651093,Indole,Round 1,Sn(OTf)2,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+213,B,9,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Ti(OMe)4,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+214,B,10,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Yb(OTf)3,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+215,B,11,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Zn(OTf)2,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+216,B,12,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,AgSbF6,0.25,20,NA,NA,NA,NA,NA,NA,NA,NA
+217,C,1,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+218,C,2,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Fe(acac)3,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+219,C,3,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+220,C,4,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,IPrCuCl,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+221,C,5,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,La(OTf)3,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+222,C,6,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Ph3PAuCl,0.25,20,NA,NA,NA,NA,NA,NA,NA,NA
+223,C,7,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Rh4(CO)12,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+224,C,8,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Sn(OTf)2,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+225,C,9,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Ti(OMe)4,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+226,C,10,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Yb(OTf)3,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+227,C,11,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Zn(OTf)2,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+228,C,12,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,AgSbF6,0.25,20,NA,NA,NA,NA,NA,NA,NA,NA
+229,D,1,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+230,D,2,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Fe(acac)3,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+231,D,3,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+232,D,4,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,IPrCuCl,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+233,D,5,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,La(OTf)3,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+234,D,6,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Ph3PAuCl,0.25,20,NA,NA,NA,NA,NA,NA,NA,NA
+235,D,7,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Rh4(CO)12,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+236,D,8,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,53.37407257,Indole,Round 1,Sn(OTf)2,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+237,D,9,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Ti(OMe)4,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+238,D,10,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Yb(OTf)3,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+239,D,11,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Zn(OTf)2,1,20,NA,NA,NA,NA,NA,NA,NA,NA
+240,D,12,3-hydroxybut-1-yne,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,AgSbF6,0.25,20,NA,NA,NA,NA,NA,NA,NA,NA
+241,E,1,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+242,E,2,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Fe(acac)3,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+243,E,3,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+244,E,4,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,IPrCuCl,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+245,E,5,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,La(OTf)3,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+246,E,6,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Ph3PAuCl,0.25,17,NA,NA,NA,NA,NA,NA,NA,NA
+247,E,7,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Rh4(CO)12,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+248,E,8,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,71.4157773,Indole,Round 1,Sn(OTf)2,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+249,E,9,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Ti(OMe)4,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+250,E,10,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Yb(OTf)3,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+251,E,11,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,Zn(OTf)2,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+252,E,12,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,MeCN,20,80,16,0,Indole,Round 1,AgSbF6,0.25,17,NA,NA,NA,NA,NA,NA,NA,NA
+253,F,1,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Cu(OAc)2,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+254,F,2,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Fe(acac)3,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+255,F,3,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Fe(OTf)2,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+256,F,4,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,IPrCuCl,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+257,F,5,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,1.368316174,Indole,Round 1,La(OTf)3,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+258,F,6,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Ph3PAuCl,0.25,17,NA,NA,NA,NA,NA,NA,NA,NA
+259,F,7,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Rh4(CO)12,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+260,F,8,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,73.89505105,Indole,Round 1,Sn(OTf)2,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+261,F,9,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Ti(OMe)4,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+262,F,10,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Yb(OTf)3,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+263,F,11,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,Zn(OTf)2,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+264,F,12,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,"1,4-Dioxane",20,80,16,0,Indole,Round 1,AgSbF6,0.25,17,NA,NA,NA,NA,NA,NA,NA,NA
+265,G,1,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+266,G,2,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Fe(acac)3,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+267,G,3,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+268,G,4,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,IPrCuCl,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+269,G,5,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,La(OTf)3,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+270,G,6,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0.769618976,Indole,Round 1,Ph3PAuCl,0.25,17,NA,NA,NA,NA,NA,NA,NA,NA
+271,G,7,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Rh4(CO)12,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+272,G,8,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,2.663667742,Indole,Round 1,Sn(OTf)2,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+273,G,9,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Ti(OMe)4,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+274,G,10,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Yb(OTf)3,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+275,G,11,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,0,Indole,Round 1,Zn(OTf)2,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+276,G,12,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,DMSO,20,80,16,1.519231019,Indole,Round 1,AgSbF6,0.25,17,NA,NA,NA,NA,NA,NA,NA,NA
+277,H,1,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Cu(OAc)2,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+278,H,2,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Fe(acac)3,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+279,H,3,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Fe(OTf)2,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+280,H,4,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,IPrCuCl,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+281,H,5,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,6.650356838,Indole,Round 1,La(OTf)3,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+282,H,6,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Ph3PAuCl,0.25,17,NA,NA,NA,NA,NA,NA,NA,NA
+283,H,7,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Rh4(CO)12,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+284,H,8,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,59.95280022,Indole,Round 1,Sn(OTf)2,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+285,H,9,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Ti(OMe)4,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+286,H,10,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,36.39335716,Indole,Round 1,Yb(OTf)3,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+287,H,11,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 1,Zn(OTf)2,1,17,NA,NA,NA,NA,NA,NA,NA,NA
+288,H,12,3-hydroxybutan-2-one,2,NA,BMT-294187,1,NA,NA,F3-Toluene,20,80,16,4.540389972,Indole,Round 1,AgSbF6,0.25,17,NA,NA,NA,NA,NA,NA,NA,NA
+1,A,1,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 2,Al(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,A,2,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,F3-Toluene,20,80,16,0,Indole,Round 2,Bi(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3,A,3,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,F3-Toluene,20,80,16,1.892071618,Indole,Round 2,CeCl3-7H2O,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4,A,4,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,F3-Toluene,20,80,16,16.35658534,Indole,Round 2,Fe(OTf)2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5,A,5,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,F3-Toluene,20,80,16,38.91294118,Indole,Round 2,FeCl3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6,A,6,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,F3-Toluene,20,80,16,60.05931555,Indole,Round 2,Sc(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7,A,7,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,F3-Toluene,20,80,16,60.01421282,Indole,Round 2,Sn(OTf)2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8,A,8,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,F3-Toluene,20,80,16,44.86906418,Indole,Round 2,TiCl4-2THF,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+9,A,9,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,F3-Toluene,20,80,16,21.604425,Indole,Round 2,Y(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10,A,10,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,F3-Toluene,20,80,16,29.11448322,Indole,Round 2,Yb(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+11,A,11,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,F3-Toluene,20,80,16,82.48122906,Indole,Round 2,ZrCl4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,A,12,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,F3-Toluene,20,80,16,1.681523029,Indole,Round 2,TfOH,3,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13,B,1,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,"1,4-Dioxane",20,80,16,67.73749644,Indole,Round 2,Al(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,B,2,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,"1,4-Dioxane",20,80,16,30.298139,Indole,Round 2,Bi(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15,B,3,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,"1,4-Dioxane",20,80,16,1.933562197,Indole,Round 2,CeCl3-7H2O,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,B,4,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,"1,4-Dioxane",20,80,16,7.954590093,Indole,Round 2,Fe(OTf)2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,B,5,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,"1,4-Dioxane",20,80,16,68.99855223,Indole,Round 2,FeCl3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,B,6,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,"1,4-Dioxane",20,80,16,62.78407743,Indole,Round 2,Sc(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+19,B,7,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,"1,4-Dioxane",20,80,16,74.97307926,Indole,Round 2,Sn(OTf)2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,B,8,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,"1,4-Dioxane",20,80,16,27.54398989,Indole,Round 2,TiCl4-2THF,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+21,B,9,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,"1,4-Dioxane",20,80,16,5.540276516,Indole,Round 2,Y(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22,B,10,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,"1,4-Dioxane",20,80,16,5.026199258,Indole,Round 2,Yb(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23,B,11,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,"1,4-Dioxane",20,80,16,75.85868725,Indole,Round 2,ZrCl4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+24,B,12,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,"1,4-Dioxane",20,80,16,14.95310136,Indole,Round 2,TfOH,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25,C,1,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,MeCN,20,80,16,40.39683052,Indole,Round 2,Al(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+26,C,2,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,MeCN,20,80,16,25.83173933,Indole,Round 2,Bi(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27,C,3,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,MeCN,20,80,16,8.68879688,Indole,Round 2,CeCl3-7H2O,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+28,C,4,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,MeCN,20,80,16,8.321536284,Indole,Round 2,Fe(OTf)2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+29,C,5,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,MeCN,20,80,16,17.56224166,Indole,Round 2,FeCl3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+30,C,6,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,MeCN,20,80,16,4.824355972,Indole,Round 2,Sc(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+31,C,7,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,MeCN,20,80,16,2.632134388,Indole,Round 2,Sn(OTf)2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+32,C,8,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,MeCN,20,80,16,49.23195789,Indole,Round 2,TiCl4-2THF,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+33,C,9,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,MeCN,20,80,16,1.344531624,Indole,Round 2,Y(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34,C,10,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,MeCN,20,80,16,0.108789714,Indole,Round 2,Yb(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35,C,11,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,MeCN,20,80,16,73.69782427,Indole,Round 2,ZrCl4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+36,C,12,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,MeCN,20,80,16,21.35968964,Indole,Round 2,TfOH,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37,D,1,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Cl-Benzene,20,80,16,3.99274642,Indole,Round 2,Al(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38,D,2,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Cl-Benzene,20,80,16,12.56255537,Indole,Round 2,Bi(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39,D,3,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Cl-Benzene,20,80,16,4.280596932,Indole,Round 2,CeCl3-7H2O,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40,D,4,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Cl-Benzene,20,80,16,9.759928203,Indole,Round 2,Fe(OTf)2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+41,D,5,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Cl-Benzene,20,80,16,12.25740796,Indole,Round 2,FeCl3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+42,D,6,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Cl-Benzene,20,80,16,15.13819395,Indole,Round 2,Sc(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+43,D,7,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Cl-Benzene,20,80,16,34.14863152,Indole,Round 2,Sn(OTf)2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+44,D,8,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Cl-Benzene,20,80,16,62.46767151,Indole,Round 2,TiCl4-2THF,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+45,D,9,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Cl-Benzene,20,80,16,18.41224864,Indole,Round 2,Y(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46,D,10,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Cl-Benzene,20,80,16,20.74709682,Indole,Round 2,Yb(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+47,D,11,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Cl-Benzene,20,80,16,95.92445104,Indole,Round 2,ZrCl4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+48,D,12,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Cl-Benzene,20,80,16,2.341565704,Indole,Round 2,TfOH,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+49,E,1,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Toluene,20,80,16,2.936106023,Indole,Round 2,Al(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+50,E,2,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Toluene,20,80,16,5.097397074,Indole,Round 2,Bi(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+51,E,3,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Toluene,20,80,16,2.142952413,Indole,Round 2,CeCl3-7H2O,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+52,E,4,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Toluene,20,80,16,0,Indole,Round 2,Fe(OTf)2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+53,E,5,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Toluene,20,80,16,19.49833032,Indole,Round 2,FeCl3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+54,E,6,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Toluene,20,80,16,24.22881316,Indole,Round 2,Sc(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+55,E,7,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Toluene,20,80,16,24.79800424,Indole,Round 2,Sn(OTf)2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+56,E,8,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Toluene,20,80,16,56.60207724,Indole,Round 2,TiCl4-2THF,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+57,E,9,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Toluene,20,80,16,14.80940364,Indole,Round 2,Y(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+58,E,10,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Toluene,20,80,16,16.07274229,Indole,Round 2,Yb(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+59,E,11,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Toluene,20,80,16,87.340974,Indole,Round 2,ZrCl4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+60,E,12,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Toluene,20,80,16,3.715693623,Indole,Round 2,TfOH,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+61,F,1,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,iPAc,20,80,16,31.04098132,Indole,Round 2,Al(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+62,F,2,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,iPAc,20,80,16,34.32845745,Indole,Round 2,Bi(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+63,F,3,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,iPAc,20,80,16,10.39146574,Indole,Round 2,CeCl3-7H2O,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+64,F,4,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,iPAc,20,80,16,7.723599167,Indole,Round 2,Fe(OTf)2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+65,F,5,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,iPAc,20,80,16,36.53633965,Indole,Round 2,FeCl3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+66,F,6,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,iPAc,20,80,16,74.75166721,Indole,Round 2,Sc(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+67,F,7,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,iPAc,20,80,16,80.85163244,Indole,Round 2,Sn(OTf)2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+68,F,8,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,iPAc,20,80,16,26.81294695,Indole,Round 2,TiCl4-2THF,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+69,F,9,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,iPAc,20,80,16,4.466471025,Indole,Round 2,Y(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+70,F,10,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,iPAc,20,80,16,7.477133685,Indole,Round 2,Yb(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+71,F,11,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,iPAc,20,80,16,85.81167981,Indole,Round 2,ZrCl4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+72,F,12,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,iPAc,20,80,16,19.59879241,Indole,Round 2,TfOH,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+73,G,1,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,AcOH,20,80,16,11.88300916,Indole,Round 2,Al(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+74,G,2,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,AcOH,20,80,16,15.91253883,Indole,Round 2,Bi(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+75,G,3,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,AcOH,20,80,16,84.99194421,Indole,Round 2,CeCl3-7H2O,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+76,G,4,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,AcOH,20,80,16,77.52049785,Indole,Round 2,Fe(OTf)2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+77,G,5,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,AcOH,20,80,16,66.21813918,Indole,Round 2,FeCl3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+78,G,6,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,AcOH,20,80,16,24.13538097,Indole,Round 2,Sc(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+79,G,7,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,AcOH,20,80,16,69.26373334,Indole,Round 2,Sn(OTf)2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+80,G,8,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,AcOH,20,80,16,89.44786979,Indole,Round 2,TiCl4-2THF,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+81,G,9,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,AcOH,20,80,16,73.58866326,Indole,Round 2,Y(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+82,G,10,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,AcOH,20,80,16,71.02441724,Indole,Round 2,Yb(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+83,G,11,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,AcOH,20,80,16,88.10725114,Indole,Round 2,ZrCl4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+84,G,12,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,AcOH,20,80,16,17.03092784,Indole,Round 2,TfOH,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+85,H,1,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Diglyme,20,80,16,23.46202505,Indole,Round 2,Al(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+86,H,2,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Diglyme,20,80,16,8.553761167,Indole,Round 2,Bi(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+87,H,3,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Diglyme,20,80,16,0.576906469,Indole,Round 2,CeCl3-7H2O,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+88,H,4,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Diglyme,20,80,16,0,Indole,Round 2,Fe(OTf)2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+89,H,5,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Diglyme,20,80,16,32.67021136,Indole,Round 2,FeCl3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+90,H,6,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Diglyme,20,80,16,14.0814137,Indole,Round 2,Sc(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+91,H,7,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Diglyme,20,80,16,23.97143656,Indole,Round 2,Sn(OTf)2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+92,H,8,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Diglyme,20,80,16,27.20120349,Indole,Round 2,TiCl4-2THF,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+93,H,9,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Diglyme,20,80,16,3.08935611,Indole,Round 2,Y(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+94,H,10,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Diglyme,20,80,16,0,Indole,Round 2,Yb(OTf)3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+95,H,11,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Diglyme,20,80,16,83.79269672,Indole,Round 2,ZrCl4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+96,H,12,3-hydroxybutan-2-one,2,NA,BMT-315178,1,NA,NA,Diglyme,20,80,16,11.22649704,Indole,Round 2,TfOH,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,5.58,Amidation,Round 1,NA,NA,NA,1.5,PyBroP,NA,NA,NA,NA,NA,NA
+2,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,17.12,Amidation,Round 1,NA,NA,NA,1.5,DEPBT,NA,NA,NA,NA,NA,NA
+3,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,5.87,Amidation,Round 1,NA,NA,NA,1.5,DMTMMT,NA,NA,NA,NA,NA,NA
+4,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,16.31,Amidation,Round 1,NA,NA,NA,1.5,EDC,NA,NA,NA,NA,NA,NA
+5,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,0.4,Amidation,Round 1,NA,NA,NA,1.5,HDBTU,NA,NA,NA,NA,NA,NA
+6,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,0,Amidation,Round 1,NA,NA,NA,1.5,HSTU,NA,NA,NA,NA,NA,NA
+7,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,3.14,Amidation,Round 1,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+8,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,2.23,Amidation,Round 1,NA,NA,NA,1.5,TFFH,NA,NA,NA,NA,NA,NA
+9,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,0.49,Amidation,Round 1,NA,NA,NA,1.5,TOTU,NA,NA,NA,NA,NA,NA
+10,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,0.15,Amidation,Round 1,NA,NA,NA,1.5,B(OCH2CF3)3,NA,NA,NA,NA,NA,NA
+11,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,5.98,Amidation,Round 1,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+12,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,12.36,Amidation,Round 1,NA,NA,NA,1.5,Piv2O,NA,NA,NA,NA,NA,NA
+13,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,8.71,Amidation,Round 1,NA,NA,NA,1.5,PyBroP,NA,NA,NA,NA,NA,NA
+14,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,19.1,Amidation,Round 1,NA,NA,NA,1.5,DEPBT,NA,NA,NA,NA,NA,NA
+15,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,7.33,Amidation,Round 1,NA,NA,NA,1.5,DMTMMT,NA,NA,NA,NA,NA,NA
+16,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,5.19,Amidation,Round 1,NA,NA,NA,1.5,EDC,NA,NA,NA,NA,NA,NA
+17,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,1.3,Amidation,Round 1,NA,NA,NA,1.5,HDBTU,NA,NA,NA,NA,NA,NA
+18,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,4.39,Amidation,Round 1,NA,NA,NA,1.5,HSTU,NA,NA,NA,NA,NA,NA
+19,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,4.06,Amidation,Round 1,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+20,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,1.54,Amidation,Round 1,NA,NA,NA,1.5,TFFH,NA,NA,NA,NA,NA,NA
+21,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,2.2,Amidation,Round 1,NA,NA,NA,1.5,TOTU,NA,NA,NA,NA,NA,NA
+22,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,0.21,Amidation,Round 1,NA,NA,NA,1.5,B(OCH2CF3)3,NA,NA,NA,NA,NA,NA
+23,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,10.76,Amidation,Round 1,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+24,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,22.99,Amidation,Round 1,NA,NA,NA,1.5,Piv2O,NA,NA,NA,NA,NA,NA
+25,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,45.18,Amidation,Round 1,NA,NA,NA,1.5,PyBroP,NA,NA,NA,NA,NA,NA
+26,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,32.08,Amidation,Round 1,NA,NA,NA,1.5,DEPBT,NA,NA,NA,NA,NA,NA
+27,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,47.31,Amidation,Round 1,NA,NA,NA,1.5,DMTMMT,NA,NA,NA,NA,NA,NA
+28,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,7.81,Amidation,Round 1,NA,NA,NA,1.5,EDC,NA,NA,NA,NA,NA,NA
+29,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,42.24,Amidation,Round 1,NA,NA,NA,1.5,HDBTU,NA,NA,NA,NA,NA,NA
+30,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,55.76,Amidation,Round 1,NA,NA,NA,1.5,HSTU,NA,NA,NA,NA,NA,NA
+31,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,84.65,Amidation,Round 1,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+32,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,70.5,Amidation,Round 1,NA,NA,NA,1.5,TFFH,NA,NA,NA,NA,NA,NA
+33,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,54.85,Amidation,Round 1,NA,NA,NA,1.5,TOTU,NA,NA,NA,NA,NA,NA
+34,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,0.37,Amidation,Round 1,NA,NA,NA,1.5,B(OCH2CF3)3,NA,NA,NA,NA,NA,NA
+35,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,56.34,Amidation,Round 1,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+36,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,3.15,Amidation,Round 1,NA,NA,NA,1.5,Piv2O,NA,NA,NA,NA,NA,NA
+37,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,91.98,Amidation,Round 1,NA,NA,NA,1.5,PyBroP,NA,NA,NA,NA,NA,NA
+38,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,38.53,Amidation,Round 1,NA,NA,NA,1.5,DEPBT,NA,NA,NA,NA,NA,NA
+39,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,57.84,Amidation,Round 1,NA,NA,NA,1.5,DMTMMT,NA,NA,NA,NA,NA,NA
+40,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,56.8,Amidation,Round 1,NA,NA,NA,1.5,EDC,NA,NA,NA,NA,NA,NA
+41,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,55.89,Amidation,Round 1,NA,NA,NA,1.5,HDBTU,NA,NA,NA,NA,NA,NA
+42,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,12.25,Amidation,Round 1,NA,NA,NA,1.5,HSTU,NA,NA,NA,NA,NA,NA
+43,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,89.8,Amidation,Round 1,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+44,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,89.2,Amidation,Round 1,NA,NA,NA,1.5,TFFH,NA,NA,NA,NA,NA,NA
+45,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,57.08,Amidation,Round 1,NA,NA,NA,1.5,TOTU,NA,NA,NA,NA,NA,NA
+46,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,0.93,Amidation,Round 1,NA,NA,NA,1.5,B(OCH2CF3)3,NA,NA,NA,NA,NA,NA
+47,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,73.1,Amidation,Round 1,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+48,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,20.41,Amidation,Round 1,NA,NA,NA,1.5,Piv2O,NA,NA,NA,NA,NA,NA
+49,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,18.64,Amidation,Round 1,NA,NA,NA,1.5,PyBroP,NA,NA,NA,NA,NA,NA
+50,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,24.6,Amidation,Round 1,NA,NA,NA,1.5,DEPBT,NA,NA,NA,NA,NA,NA
+51,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,78.35,Amidation,Round 1,NA,NA,NA,1.5,DMTMMT,NA,NA,NA,NA,NA,NA
+52,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,32.42,Amidation,Round 1,NA,NA,NA,1.5,EDC,NA,NA,NA,NA,NA,NA
+53,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,48.5,Amidation,Round 1,NA,NA,NA,1.5,HDBTU,NA,NA,NA,NA,NA,NA
+54,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,60.54,Amidation,Round 1,NA,NA,NA,1.5,HSTU,NA,NA,NA,NA,NA,NA
+55,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,77.98,Amidation,Round 1,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+56,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,23.58,Amidation,Round 1,NA,NA,NA,1.5,TFFH,NA,NA,NA,NA,NA,NA
+57,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,4.73,Amidation,Round 1,NA,NA,NA,1.5,TOTU,NA,NA,NA,NA,NA,NA
+58,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,0.38,Amidation,Round 1,NA,NA,NA,1.5,B(OCH2CF3)3,NA,NA,NA,NA,NA,NA
+59,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,55.91,Amidation,Round 1,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+60,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,5.14,Amidation,Round 1,NA,NA,NA,1.5,Piv2O,NA,NA,NA,NA,NA,NA
+61,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,24.17,Amidation,Round 1,NA,NA,NA,1.5,PyBroP,NA,NA,NA,NA,NA,NA
+62,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,45.75,Amidation,Round 1,NA,NA,NA,1.5,DEPBT,NA,NA,NA,NA,NA,NA
+63,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,77.36,Amidation,Round 1,NA,NA,NA,1.5,DMTMMT,NA,NA,NA,NA,NA,NA
+64,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,22.87,Amidation,Round 1,NA,NA,NA,1.5,EDC,NA,NA,NA,NA,NA,NA
+65,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,48.54,Amidation,Round 1,NA,NA,NA,1.5,HDBTU,NA,NA,NA,NA,NA,NA
+66,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,61.37,Amidation,Round 1,NA,NA,NA,1.5,HSTU,NA,NA,NA,NA,NA,NA
+67,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,95.28,Amidation,Round 1,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+68,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,61.4,Amidation,Round 1,NA,NA,NA,1.5,TFFH,NA,NA,NA,NA,NA,NA
+69,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,50.32,Amidation,Round 1,NA,NA,NA,1.5,TOTU,NA,NA,NA,NA,NA,NA
+70,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,1.46,Amidation,Round 1,NA,NA,NA,1.5,B(OCH2CF3)3,NA,NA,NA,NA,NA,NA
+71,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,65.92,Amidation,Round 1,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+72,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,38.19,Amidation,Round 1,NA,NA,NA,1.5,Piv2O,NA,NA,NA,NA,NA,NA
+73,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,0,Amidation,Round 1,NA,NA,NA,1.5,PyBroP,NA,NA,NA,NA,NA,NA
+74,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,12.61,Amidation,Round 1,NA,NA,NA,1.5,DEPBT,NA,NA,NA,NA,NA,NA
+75,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,11.56,Amidation,Round 1,NA,NA,NA,1.5,DMTMMT,NA,NA,NA,NA,NA,NA
+76,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,63.95,Amidation,Round 1,NA,NA,NA,1.5,EDC,NA,NA,NA,NA,NA,NA
+77,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,1.79,Amidation,Round 1,NA,NA,NA,1.5,HDBTU,NA,NA,NA,NA,NA,NA
+78,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,0,Amidation,Round 1,NA,NA,NA,1.5,HSTU,NA,NA,NA,NA,NA,NA
+79,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,13.12,Amidation,Round 1,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+80,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,4.86,Amidation,Round 1,NA,NA,NA,1.5,TFFH,NA,NA,NA,NA,NA,NA
+81,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,0,Amidation,Round 1,NA,NA,NA,1.5,TOTU,NA,NA,NA,NA,NA,NA
+82,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,0,Amidation,Round 1,NA,NA,NA,1.5,B(OCH2CF3)3,NA,NA,NA,NA,NA,NA
+83,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,51.02,Amidation,Round 1,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+84,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,0.47,Amidation,Round 1,NA,NA,NA,1.5,Piv2O,NA,NA,NA,NA,NA,NA
+85,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,26.67,Amidation,Round 1,NA,NA,NA,1.5,PyBroP,NA,NA,NA,NA,NA,NA
+86,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,10.18,Amidation,Round 1,NA,NA,NA,1.5,DEPBT,NA,NA,NA,NA,NA,NA
+87,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,34.37,Amidation,Round 1,NA,NA,NA,1.5,DMTMMT,NA,NA,NA,NA,NA,NA
+88,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,25.82,Amidation,Round 1,NA,NA,NA,1.5,EDC,NA,NA,NA,NA,NA,NA
+89,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,30.5,Amidation,Round 1,NA,NA,NA,1.5,HDBTU,NA,NA,NA,NA,NA,NA
+90,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,25.9,Amidation,Round 1,NA,NA,NA,1.5,HSTU,NA,NA,NA,NA,NA,NA
+91,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,69.71,Amidation,Round 1,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+92,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,29.04,Amidation,Round 1,NA,NA,NA,1.5,TFFH,NA,NA,NA,NA,NA,NA
+93,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,5.09,Amidation,Round 1,NA,NA,NA,1.5,TOTU,NA,NA,NA,NA,NA,NA
+94,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,0.58,Amidation,Round 1,NA,NA,NA,1.5,B(OCH2CF3)3,NA,NA,NA,NA,NA,NA
+95,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,44.99,Amidation,Round 1,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+96,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,24.85,Amidation,Round 1,NA,NA,NA,1.5,Piv2O,NA,NA,NA,NA,NA,NA
+1,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,22.04,Amidation,Round 2,NA,NA,NA,1.5,BOP-Cl,NA,NA,NA,NA,NA,NA
+2,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,35.72,Amidation,Round 2,NA,NA,NA,1.5,CIP,NA,NA,NA,NA,NA,NA
+3,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,0.15,Amidation,Round 2,NA,NA,NA,1.5,HATU,NA,NA,NA,NA,NA,NA
+4,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,0,Amidation,Round 2,NA,NA,NA,1.5,TATU,NA,NA,NA,NA,NA,NA
+5,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,0,Amidation,Round 2,NA,NA,NA,1.5,HOTU,NA,NA,NA,NA,NA,NA
+6,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,0,Amidation,Round 2,NA,NA,NA,1.5,HSTU,NA,NA,NA,NA,NA,NA
+7,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,7.57,Amidation,Round 2,NA,NA,NA,1.5,TBTU,NA,NA,NA,NA,NA,NA
+8,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,35.54,Amidation,Round 2,NA,NA,NA,1.5,TCFH,NA,NA,NA,NA,NA,NA
+9,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,0,Amidation,Round 2,NA,NA,NA,1.5,TDBTU,NA,NA,NA,NA,NA,NA
+10,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,0,Amidation,Round 2,NA,NA,NA,1.5,TOTT,NA,NA,NA,NA,NA,NA
+11,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,2.13,Amidation,Round 2,NA,NA,NA,1.5,TPD-Osu,NA,NA,NA,NA,NA,NA
+12,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,DMF,20,23,16,0,Amidation,Round 2,NA,NA,NA,1.5,TPTU,NA,NA,NA,NA,NA,NA
+13,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,0,Amidation,Round 2,NA,NA,NA,1.5,BOP-Cl,NA,NA,NA,NA,NA,NA
+14,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,0,Amidation,Round 2,NA,NA,NA,1.5,CIP,NA,NA,NA,NA,NA,NA
+15,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,3.91,Amidation,Round 2,NA,NA,NA,1.5,HATU,NA,NA,NA,NA,NA,NA
+16,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,7.8,Amidation,Round 2,NA,NA,NA,1.5,TATU,NA,NA,NA,NA,NA,NA
+17,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,0,Amidation,Round 2,NA,NA,NA,1.5,HOTU,NA,NA,NA,NA,NA,NA
+18,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,7.92,Amidation,Round 2,NA,NA,NA,1.5,HSTU,NA,NA,NA,NA,NA,NA
+19,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,26.83,Amidation,Round 2,NA,NA,NA,1.5,TBTU,NA,NA,NA,NA,NA,NA
+20,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,1.41,Amidation,Round 2,NA,NA,NA,1.5,TCFH,NA,NA,NA,NA,NA,NA
+21,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,0.9,Amidation,Round 2,NA,NA,NA,1.5,TDBTU,NA,NA,NA,NA,NA,NA
+22,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,6.73,Amidation,Round 2,NA,NA,NA,1.5,TOTT,NA,NA,NA,NA,NA,NA
+23,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,11.13,Amidation,Round 2,NA,NA,NA,1.5,TPD-Osu,NA,NA,NA,NA,NA,NA
+24,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,1-Methylimidazole,3,THF,20,23,16,10.96,Amidation,Round 2,NA,NA,NA,1.5,TPTU,NA,NA,NA,NA,NA,NA
+25,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,66.29,Amidation,Round 2,NA,NA,NA,1.5,BOP-Cl,NA,NA,NA,NA,NA,NA
+26,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,0,Amidation,Round 2,NA,NA,NA,1.5,CIP,NA,NA,NA,NA,NA,NA
+27,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,56.47,Amidation,Round 2,NA,NA,NA,1.5,HATU,NA,NA,NA,NA,NA,NA
+28,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,59.66,Amidation,Round 2,NA,NA,NA,1.5,TATU,NA,NA,NA,NA,NA,NA
+29,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,62.77,Amidation,Round 2,NA,NA,NA,1.5,HOTU,NA,NA,NA,NA,NA,NA
+30,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,49.49,Amidation,Round 2,NA,NA,NA,1.5,HSTU,NA,NA,NA,NA,NA,NA
+31,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,64.53,Amidation,Round 2,NA,NA,NA,1.5,TBTU,NA,NA,NA,NA,NA,NA
+32,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,56.47,Amidation,Round 2,NA,NA,NA,1.5,TCFH,NA,NA,NA,NA,NA,NA
+33,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,47.31,Amidation,Round 2,NA,NA,NA,1.5,TDBTU,NA,NA,NA,NA,NA,NA
+34,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,48.54,Amidation,Round 2,NA,NA,NA,1.5,TOTT,NA,NA,NA,NA,NA,NA
+35,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,55.1,Amidation,Round 2,NA,NA,NA,1.5,TPD-Osu,NA,NA,NA,NA,NA,NA
+36,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,DMF,20,23,16,90.91,Amidation,Round 2,NA,NA,NA,1.5,TPTU,NA,NA,NA,NA,NA,NA
+37,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,82.34,Amidation,Round 2,NA,NA,NA,1.5,BOP-Cl,NA,NA,NA,NA,NA,NA
+38,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,88.23,Amidation,Round 2,NA,NA,NA,1.5,CIP,NA,NA,NA,NA,NA,NA
+39,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,79.53,Amidation,Round 2,NA,NA,NA,1.5,HATU,NA,NA,NA,NA,NA,NA
+40,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,51.37,Amidation,Round 2,NA,NA,NA,1.5,TATU,NA,NA,NA,NA,NA,NA
+41,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,61.43,Amidation,Round 2,NA,NA,NA,1.5,HOTU,NA,NA,NA,NA,NA,NA
+42,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,22.23,Amidation,Round 2,NA,NA,NA,1.5,HSTU,NA,NA,NA,NA,NA,NA
+43,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,25.33,Amidation,Round 2,NA,NA,NA,1.5,TBTU,NA,NA,NA,NA,NA,NA
+44,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,80.62,Amidation,Round 2,NA,NA,NA,1.5,TCFH,NA,NA,NA,NA,NA,NA
+45,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,52.24,Amidation,Round 2,NA,NA,NA,1.5,TDBTU,NA,NA,NA,NA,NA,NA
+46,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,23.68,Amidation,Round 2,NA,NA,NA,1.5,TOTT,NA,NA,NA,NA,NA,NA
+47,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,42.3,Amidation,Round 2,NA,NA,NA,1.5,TPD-Osu,NA,NA,NA,NA,NA,NA
+48,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,"2,6-Lutidine",3,THF,20,23,16,31.17,Amidation,Round 2,NA,NA,NA,1.5,TPTU,NA,NA,NA,NA,NA,NA
+49,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,40.27,Amidation,Round 2,NA,NA,NA,1.5,BOP-Cl,NA,NA,NA,NA,NA,NA
+50,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,27.91,Amidation,Round 2,NA,NA,NA,1.5,CIP,NA,NA,NA,NA,NA,NA
+51,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,0,Amidation,Round 2,NA,NA,NA,1.5,HATU,NA,NA,NA,NA,NA,NA
+52,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,16.88,Amidation,Round 2,NA,NA,NA,1.5,TATU,NA,NA,NA,NA,NA,NA
+53,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,9.57,Amidation,Round 2,NA,NA,NA,1.5,HOTU,NA,NA,NA,NA,NA,NA
+54,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,0,Amidation,Round 2,NA,NA,NA,1.5,HSTU,NA,NA,NA,NA,NA,NA
+55,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,39.87,Amidation,Round 2,NA,NA,NA,1.5,TBTU,NA,NA,NA,NA,NA,NA
+56,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,27.91,Amidation,Round 2,NA,NA,NA,1.5,TCFH,NA,NA,NA,NA,NA,NA
+57,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,9.4,Amidation,Round 2,NA,NA,NA,1.5,TDBTU,NA,NA,NA,NA,NA,NA
+58,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,45.68,Amidation,Round 2,NA,NA,NA,1.5,TOTT,NA,NA,NA,NA,NA,NA
+59,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,42.2,Amidation,Round 2,NA,NA,NA,1.5,TPD-Osu,NA,NA,NA,NA,NA,NA
+60,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,DMF,20,23,16,67.97,Amidation,Round 2,NA,NA,NA,1.5,TPTU,NA,NA,NA,NA,NA,NA
+61,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,94.06,Amidation,Round 2,NA,NA,NA,1.5,BOP-Cl,NA,NA,NA,NA,NA,NA
+62,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,67.48,Amidation,Round 2,NA,NA,NA,1.5,CIP,NA,NA,NA,NA,NA,NA
+63,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,53.59,Amidation,Round 2,NA,NA,NA,1.5,HATU,NA,NA,NA,NA,NA,NA
+64,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,57.77,Amidation,Round 2,NA,NA,NA,1.5,TATU,NA,NA,NA,NA,NA,NA
+65,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,11.04,Amidation,Round 2,NA,NA,NA,1.5,HOTU,NA,NA,NA,NA,NA,NA
+66,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,51.96,Amidation,Round 2,NA,NA,NA,1.5,HSTU,NA,NA,NA,NA,NA,NA
+67,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,63.83,Amidation,Round 2,NA,NA,NA,1.5,TBTU,NA,NA,NA,NA,NA,NA
+68,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,47.47,Amidation,Round 2,NA,NA,NA,1.5,TCFH,NA,NA,NA,NA,NA,NA
+69,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,46.24,Amidation,Round 2,NA,NA,NA,1.5,TDBTU,NA,NA,NA,NA,NA,NA
+70,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,52.11,Amidation,Round 2,NA,NA,NA,1.5,TOTT,NA,NA,NA,NA,NA,NA
+71,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,53.06,Amidation,Round 2,NA,NA,NA,1.5,TPD-Osu,NA,NA,NA,NA,NA,NA
+72,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,N-methylmorpholine,3,THF,20,23,16,86.78,Amidation,Round 2,NA,NA,NA,1.5,TPTU,NA,NA,NA,NA,NA,NA
+73,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,18.25,Amidation,Round 2,NA,NA,NA,1.5,BOP-Cl,NA,NA,NA,NA,NA,NA
+74,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,28.32,Amidation,Round 2,NA,NA,NA,1.5,CIP,NA,NA,NA,NA,NA,NA
+75,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,0,Amidation,Round 2,NA,NA,NA,1.5,HATU,NA,NA,NA,NA,NA,NA
+76,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,0,Amidation,Round 2,NA,NA,NA,1.5,TATU,NA,NA,NA,NA,NA,NA
+77,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,0,Amidation,Round 2,NA,NA,NA,1.5,HOTU,NA,NA,NA,NA,NA,NA
+78,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,0,Amidation,Round 2,NA,NA,NA,1.5,HSTU,NA,NA,NA,NA,NA,NA
+79,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,17.35,Amidation,Round 2,NA,NA,NA,1.5,TBTU,NA,NA,NA,NA,NA,NA
+80,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,28.4,Amidation,Round 2,NA,NA,NA,1.5,TCFH,NA,NA,NA,NA,NA,NA
+81,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,1.45,Amidation,Round 2,NA,NA,NA,1.5,TDBTU,NA,NA,NA,NA,NA,NA
+82,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,26.51,Amidation,Round 2,NA,NA,NA,1.5,TOTT,NA,NA,NA,NA,NA,NA
+83,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,0,Amidation,Round 2,NA,NA,NA,1.5,TPD-Osu,NA,NA,NA,NA,NA,NA
+84,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,DMF,20,23,16,21.53,Amidation,Round 2,NA,NA,NA,1.5,TPTU,NA,NA,NA,NA,NA,NA
+85,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,43.47,Amidation,Round 2,NA,NA,NA,1.5,BOP-Cl,NA,NA,NA,NA,NA,NA
+86,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,52.63,Amidation,Round 2,NA,NA,NA,1.5,CIP,NA,NA,NA,NA,NA,NA
+87,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,30.6,Amidation,Round 2,NA,NA,NA,1.5,HATU,NA,NA,NA,NA,NA,NA
+88,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,49.06,Amidation,Round 2,NA,NA,NA,1.5,TATU,NA,NA,NA,NA,NA,NA
+89,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,3.32,Amidation,Round 2,NA,NA,NA,1.5,HOTU,NA,NA,NA,NA,NA,NA
+90,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,29.49,Amidation,Round 2,NA,NA,NA,1.5,HSTU,NA,NA,NA,NA,NA,NA
+91,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,60.67,Amidation,Round 2,NA,NA,NA,1.5,TBTU,NA,NA,NA,NA,NA,NA
+92,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,47.33,Amidation,Round 2,NA,NA,NA,1.5,TCFH,NA,NA,NA,NA,NA,NA
+93,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,21.45,Amidation,Round 2,NA,NA,NA,1.5,TDBTU,NA,NA,NA,NA,NA,NA
+94,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,28.15,Amidation,Round 2,NA,NA,NA,1.5,TOTT,NA,NA,NA,NA,NA,NA
+95,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,40.06,Amidation,Round 2,NA,NA,NA,1.5,TPD-Osu,NA,NA,NA,NA,NA,NA
+96,NA,NA,Butynoic Acid,1,NA,BMT-136986,1.5,Triethylamine,3,THF,20,23,16,67.31,Amidation,Round 2,NA,NA,NA,1.5,TPTU,NA,NA,NA,NA,NA,NA
+1,A,1,Butynoic Acid,1.5,32.9,BMT-136986,1,"1,4-dimethylpiperazine",3,DIMETHYLFORMAMIDE,20,23,16,17.10425517,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+2,A,2,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Di-tert-butylpyridine",3,DIMETHYLFORMAMIDE,20,23,16,9.124287969,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+3,A,3,Butynoic Acid,1.5,32.9,BMT-136986,1,Collidine,3,DIMETHYLFORMAMIDE,20,23,16,38.44615223,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+4,A,4,Butynoic Acid,1.5,32.9,BMT-136986,1,Cy2NMe,3,DIMETHYLFORMAMIDE,20,23,16,40.78410337,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+5,A,5,Butynoic Acid,1.5,32.9,BMT-136986,1,DABCO,3,DIMETHYLFORMAMIDE,20,23,16,4.399669618,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+6,A,6,Butynoic Acid,1.5,32.9,BMT-136986,1,DBU,3,DIMETHYLFORMAMIDE,20,23,16,28.46767154,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+7,A,7,Butynoic Acid,1.5,32.9,BMT-136986,1,Diisopropylethylamine,3,DIMETHYLFORMAMIDE,20,23,16,45.44170757,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+8,A,8,Butynoic Acid,1.5,32.9,BMT-136986,1,MTBD,3,DIMETHYLFORMAMIDE,20,23,16,26.626100310000002,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+9,A,9,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylpiperidine,3,DIMETHYLFORMAMIDE,20,23,16,21.95562346,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+10,A,10,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylpyrrolidine,3,DIMETHYLFORMAMIDE,20,23,16,6.423584895,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+11,A,11,Butynoic Acid,1.5,32.9,BMT-136986,1,Pentamethylipiperidine,3,DIMETHYLFORMAMIDE,20,23,16,34.08853986,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+12,A,12,Butynoic Acid,1.5,32.9,BMT-136986,1,pyridine,3,DIMETHYLFORMAMIDE,20,23,16,12.76477146,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+13,B,1,Butynoic Acid,1.5,32.9,BMT-136986,1,"1,4-dimethylpiperazine",3,TETRAHYDROFURAN,20,23,16,77.36252311,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+14,B,2,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Di-tert-butylpyridine",3,TETRAHYDROFURAN,20,23,16,2.126612414,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+15,B,3,Butynoic Acid,1.5,32.9,BMT-136986,1,Collidine,3,TETRAHYDROFURAN,20,23,16,90.90327235,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+16,B,4,Butynoic Acid,1.5,32.9,BMT-136986,1,Cy2NMe,3,TETRAHYDROFURAN,20,23,16,73.19868679,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+17,B,5,Butynoic Acid,1.5,32.9,BMT-136986,1,DABCO,3,TETRAHYDROFURAN,20,23,16,60.22059079,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+18,B,6,Butynoic Acid,1.5,32.9,BMT-136986,1,DBU,3,TETRAHYDROFURAN,20,23,16,26.28510741,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+19,B,7,Butynoic Acid,1.5,32.9,BMT-136986,1,Diisopropylethylamine,3,TETRAHYDROFURAN,20,23,16,85.33493848,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+20,B,8,Butynoic Acid,1.5,32.9,BMT-136986,1,MTBD,3,TETRAHYDROFURAN,20,23,16,6.857845145,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+21,B,9,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylpiperidine,3,TETRAHYDROFURAN,20,23,16,57.64559983,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+22,B,10,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylpyrrolidine,3,TETRAHYDROFURAN,20,23,16,27.85873781,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+23,B,11,Butynoic Acid,1.5,32.9,BMT-136986,1,Pentamethylipiperidine,3,TETRAHYDROFURAN,20,23,16,88.38401922,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+24,B,12,Butynoic Acid,1.5,32.9,BMT-136986,1,pyridine,3,TETRAHYDROFURAN,20,23,16,43.89595068,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+25,C,1,Butynoic Acid,1.5,32.9,BMT-136986,1,"1,4-dimethylpiperazine",3,DIMETHYLFORMAMIDE,20,23,16,0.871596416,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+26,C,2,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Di-tert-butylpyridine",3,DIMETHYLFORMAMIDE,20,23,16,14.63759129,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+27,C,3,Butynoic Acid,1.5,32.9,BMT-136986,1,Collidine,3,DIMETHYLFORMAMIDE,20,23,16,52.28622946,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+28,C,4,Butynoic Acid,1.5,32.9,BMT-136986,1,Cy2NMe,3,DIMETHYLFORMAMIDE,20,23,16,43.50065242,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+29,C,5,Butynoic Acid,1.5,32.9,BMT-136986,1,DABCO,3,DIMETHYLFORMAMIDE,20,23,16,2.96619031,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+30,C,6,Butynoic Acid,1.5,32.9,BMT-136986,1,DBU,3,DIMETHYLFORMAMIDE,20,23,16,17.87967397,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+31,C,7,Butynoic Acid,1.5,32.9,BMT-136986,1,Diisopropylethylamine,3,DIMETHYLFORMAMIDE,20,23,16,15.58843931,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+32,C,8,Butynoic Acid,1.5,32.9,BMT-136986,1,MTBD,3,DIMETHYLFORMAMIDE,20,23,16,23.49451271,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+33,C,9,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylpiperidine,3,DIMETHYLFORMAMIDE,20,23,16,4.172762104,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+34,C,10,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylpyrrolidine,3,DIMETHYLFORMAMIDE,20,23,16,5.561750767,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+35,C,11,Butynoic Acid,1.5,32.9,BMT-136986,1,Pentamethylipiperidine,3,DIMETHYLFORMAMIDE,20,23,16,17.96887664,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+36,C,12,Butynoic Acid,1.5,32.9,BMT-136986,1,pyridine,3,DIMETHYLFORMAMIDE,20,23,16,15.08372732,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+37,D,1,Butynoic Acid,1.5,32.9,BMT-136986,1,"1,4-dimethylpiperazine",3,TETRAHYDROFURAN,20,23,16,38.35803613,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+38,D,2,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Di-tert-butylpyridine",3,TETRAHYDROFURAN,20,23,16,12.14262879,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+39,D,3,Butynoic Acid,1.5,32.9,BMT-136986,1,Collidine,3,TETRAHYDROFURAN,20,23,16,46.4612544,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+40,D,4,Butynoic Acid,1.5,32.9,BMT-136986,1,Cy2NMe,3,TETRAHYDROFURAN,20,23,16,34.71269694,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+41,D,5,Butynoic Acid,1.5,32.9,BMT-136986,1,DABCO,3,TETRAHYDROFURAN,20,23,16,28.55214153,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+42,D,6,Butynoic Acid,1.5,32.9,BMT-136986,1,DBU,3,TETRAHYDROFURAN,20,23,16,12.91538037,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+43,D,7,Butynoic Acid,1.5,32.9,BMT-136986,1,Diisopropylethylamine,3,TETRAHYDROFURAN,20,23,16,36.52516015,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+44,D,8,Butynoic Acid,1.5,32.9,BMT-136986,1,MTBD,3,TETRAHYDROFURAN,20,23,16,7.270508443,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+45,D,9,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylpiperidine,3,TETRAHYDROFURAN,20,23,16,17.79505628,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+46,D,10,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylpyrrolidine,3,TETRAHYDROFURAN,20,23,16,1.977127802,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+47,D,11,Butynoic Acid,1.5,32.9,BMT-136986,1,Pentamethylipiperidine,3,TETRAHYDROFURAN,20,23,16,93.01201791,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+48,D,12,Butynoic Acid,1.5,32.9,BMT-136986,1,pyridine,3,TETRAHYDROFURAN,20,23,16,3.237330797,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+49,E,1,Butynoic Acid,1.5,32.9,BMT-136986,1,"1,4-dimethylpiperazine",3,DIMETHYLFORMAMIDE,20,23,16,13.2110655,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+50,E,2,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Di-tert-butylpyridine",3,DIMETHYLFORMAMIDE,20,23,16,26.61420755,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+51,E,3,Butynoic Acid,1.5,32.9,BMT-136986,1,Collidine,3,DIMETHYLFORMAMIDE,20,23,16,89.77350878,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+52,E,4,Butynoic Acid,1.5,32.9,BMT-136986,1,Cy2NMe,3,DIMETHYLFORMAMIDE,20,23,16,15.95645659,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+53,E,5,Butynoic Acid,1.5,32.9,BMT-136986,1,DABCO,3,DIMETHYLFORMAMIDE,20,23,16,0,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+54,E,6,Butynoic Acid,1.5,32.9,BMT-136986,1,DBU,3,DIMETHYLFORMAMIDE,20,23,16,10.65284692,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+55,E,7,Butynoic Acid,1.5,32.9,BMT-136986,1,Diisopropylethylamine,3,DIMETHYLFORMAMIDE,20,23,16,55.33747064,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+56,E,8,Butynoic Acid,1.5,32.9,BMT-136986,1,MTBD,3,DIMETHYLFORMAMIDE,20,23,16,0,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+57,E,9,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylpiperidine,3,DIMETHYLFORMAMIDE,20,23,16,8.372489903,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+58,E,10,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylpyrrolidine,3,DIMETHYLFORMAMIDE,20,23,16,3.87787371,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+59,E,11,Butynoic Acid,1.5,32.9,BMT-136986,1,Pentamethylipiperidine,3,DIMETHYLFORMAMIDE,20,23,16,54.55975021,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+60,E,12,Butynoic Acid,1.5,32.9,BMT-136986,1,pyridine,3,DIMETHYLFORMAMIDE,20,23,16,29.94321296,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+61,F,1,Butynoic Acid,1.5,32.9,BMT-136986,1,"1,4-dimethylpiperazine",3,TETRAHYDROFURAN,20,23,16,70.40416344,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+62,F,2,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Di-tert-butylpyridine",3,TETRAHYDROFURAN,20,23,16,35.62044286,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+63,F,3,Butynoic Acid,1.5,32.9,BMT-136986,1,Collidine,3,TETRAHYDROFURAN,20,23,16,96.71384338,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+64,F,4,Butynoic Acid,1.5,32.9,BMT-136986,1,Cy2NMe,3,TETRAHYDROFURAN,20,23,16,73.3584013,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+65,F,5,Butynoic Acid,1.5,32.9,BMT-136986,1,DABCO,3,TETRAHYDROFURAN,20,23,16,31.27978817,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+66,F,6,Butynoic Acid,1.5,32.9,BMT-136986,1,DBU,3,TETRAHYDROFURAN,20,23,16,63.91826026,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+67,F,7,Butynoic Acid,1.5,32.9,BMT-136986,1,Diisopropylethylamine,3,TETRAHYDROFURAN,20,23,16,70.35114268,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+68,F,8,Butynoic Acid,1.5,32.9,BMT-136986,1,MTBD,3,TETRAHYDROFURAN,20,23,16,0,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+69,F,9,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylpiperidine,3,TETRAHYDROFURAN,20,23,16,34.96376607,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+70,F,10,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylpyrrolidine,3,TETRAHYDROFURAN,20,23,16,4.514719892,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+71,F,11,Butynoic Acid,1.5,32.9,BMT-136986,1,Pentamethylipiperidine,3,TETRAHYDROFURAN,20,23,16,80.95853176,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+72,F,12,Butynoic Acid,1.5,32.9,BMT-136986,1,pyridine,3,TETRAHYDROFURAN,20,23,16,77.00771454,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+73,G,1,Butynoic Acid,1.5,32.9,BMT-136986,1,"1,4-dimethylpiperazine",3,DIMETHYLFORMAMIDE,20,23,16,0.050865288,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+74,G,2,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Di-tert-butylpyridine",3,DIMETHYLFORMAMIDE,20,23,16,0.037810216,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+75,G,3,Butynoic Acid,1.5,32.9,BMT-136986,1,Collidine,3,DIMETHYLFORMAMIDE,20,23,16,0.101810609,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+76,G,4,Butynoic Acid,1.5,32.9,BMT-136986,1,Cy2NMe,3,DIMETHYLFORMAMIDE,20,23,16,0.024315124,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+77,G,5,Butynoic Acid,1.5,32.9,BMT-136986,1,DABCO,3,DIMETHYLFORMAMIDE,20,23,16,0.089311605,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+78,G,6,Butynoic Acid,1.5,32.9,BMT-136986,1,DBU,3,DIMETHYLFORMAMIDE,20,23,16,2.958463496,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+79,G,7,Butynoic Acid,1.5,32.9,BMT-136986,1,Diisopropylethylamine,3,DIMETHYLFORMAMIDE,20,23,16,1.464023868,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+80,G,8,Butynoic Acid,1.5,32.9,BMT-136986,1,MTBD,3,DIMETHYLFORMAMIDE,20,23,16,0,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+81,G,9,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylpiperidine,3,DIMETHYLFORMAMIDE,20,23,16,0.090393909,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+82,G,10,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylpyrrolidine,3,DIMETHYLFORMAMIDE,20,23,16,0.019673421,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+83,G,11,Butynoic Acid,1.5,32.9,BMT-136986,1,Pentamethylipiperidine,3,DIMETHYLFORMAMIDE,20,23,16,0.057877739,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+84,G,12,Butynoic Acid,1.5,32.9,BMT-136986,1,pyridine,3,DIMETHYLFORMAMIDE,20,23,16,0.056757633,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+85,H,1,Butynoic Acid,1.5,32.9,BMT-136986,1,"1,4-dimethylpiperazine",3,TETRAHYDROFURAN,20,23,16,33.29611085,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+86,H,2,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Di-tert-butylpyridine",3,TETRAHYDROFURAN,20,23,16,66.40721156,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+87,H,3,Butynoic Acid,1.5,32.9,BMT-136986,1,Collidine,3,TETRAHYDROFURAN,20,23,16,98.83400417,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+88,H,4,Butynoic Acid,1.5,32.9,BMT-136986,1,Cy2NMe,3,TETRAHYDROFURAN,20,23,16,75.73760899,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+89,H,5,Butynoic Acid,1.5,32.9,BMT-136986,1,DABCO,3,TETRAHYDROFURAN,20,23,16,7.252444043,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+90,H,6,Butynoic Acid,1.5,32.9,BMT-136986,1,DBU,3,TETRAHYDROFURAN,20,23,16,25.41294877,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+91,H,7,Butynoic Acid,1.5,32.9,BMT-136986,1,Diisopropylethylamine,3,TETRAHYDROFURAN,20,23,16,92.69110236,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+92,H,8,Butynoic Acid,1.5,32.9,BMT-136986,1,MTBD,3,TETRAHYDROFURAN,20,23,16,3.396767406,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+93,H,9,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylpiperidine,3,TETRAHYDROFURAN,20,23,16,22.85925961,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+94,H,10,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylpyrrolidine,3,TETRAHYDROFURAN,20,23,16,7.511791902,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+95,H,11,Butynoic Acid,1.5,32.9,BMT-136986,1,Pentamethylipiperidine,3,TETRAHYDROFURAN,20,23,16,94.57449486,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+96,H,12,Butynoic Acid,1.5,32.9,BMT-136986,1,pyridine,3,TETRAHYDROFURAN,20,23,16,53.83591438,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+97,A,1,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,DIMETHYLFORMAMIDE,20,23,16,29.22266919,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+98,A,2,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,DIMETHYLFORMAMIDE,20,23,16,31.33060602,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+99,A,3,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,DIMETHYLFORMAMIDE,20,23,16,34.91463315,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+100,A,4,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,DIMETHYLFORMAMIDE,20,23,16,0,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+101,A,5,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,TETRAHYDROFURAN,20,23,16,23.74321732,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+102,A,6,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,TETRAHYDROFURAN,20,23,16,93.02568938,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+103,A,7,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,TETRAHYDROFURAN,20,23,16,4.242304427,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+104,A,8,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,TETRAHYDROFURAN,20,23,16,65.44772675,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+105,A,9,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,2-METHYLTETRAHYDROFURAN,20,23,16,12.44929941,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+106,A,10,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,2-METHYLTETRAHYDROFURAN,20,23,16,76.36195647,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+107,A,11,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,2-METHYLTETRAHYDROFURAN,20,23,16,85.15525114,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+108,A,12,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,2-METHYLTETRAHYDROFURAN,20,23,16,38.61032993,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+109,B,1,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,ACETONITRILE,20,23,16,3.224314732,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+110,B,2,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,ACETONITRILE,20,23,16,59.25167407,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+111,B,3,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,ACETONITRILE,20,23,16,63.00477039,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+112,B,4,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,ACETONITRILE,20,23,16,48.16735981,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+113,B,5,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,N-METHYL PYRROLIDINONE,20,23,16,15.90917282,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+114,B,6,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,N-METHYL PYRROLIDINONE,20,23,16,72.2695722,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+115,B,7,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,N-METHYL PYRROLIDINONE,20,23,16,6.406695157,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+116,B,8,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,N-METHYL PYRROLIDINONE,20,23,16,64.11617665,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+117,B,9,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,ACETONE,20,23,16,11.5921545,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+118,B,10,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,ACETONE,20,23,16,61.42961698,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+119,B,11,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,ACETONE,20,23,16,63.60085921,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+120,B,12,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,ACETONE,20,23,16,51.0043306,Amidation,Round 3,NA,NA,NA,1.5,DPPCl,NA,NA,NA,NA,NA,NA
+121,C,1,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,DIMETHYLFORMAMIDE,20,23,16,6.639783987,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+122,C,2,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,DIMETHYLFORMAMIDE,20,23,16,37.71472942,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+123,C,3,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,DIMETHYLFORMAMIDE,20,23,16,18.76535299,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+124,C,4,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,DIMETHYLFORMAMIDE,20,23,16,0,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+125,C,5,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,TETRAHYDROFURAN,20,23,16,10.66238515,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+126,C,6,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,TETRAHYDROFURAN,20,23,16,32.46137337,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+127,C,7,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,TETRAHYDROFURAN,20,23,16,26.85192712,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+128,C,8,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,TETRAHYDROFURAN,20,23,16,24.56955326,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+129,C,9,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,2-METHYLTETRAHYDROFURAN,20,23,16,16.04472851,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+130,C,10,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,2-METHYLTETRAHYDROFURAN,20,23,16,38.80698958,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+131,C,11,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,2-METHYLTETRAHYDROFURAN,20,23,16,26.53011937,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+132,C,12,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,2-METHYLTETRAHYDROFURAN,20,23,16,22.22017864,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+133,D,1,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,ACETONITRILE,20,23,16,1.12102705,Amidation,Round 3,NA,NA,NA,1.5,BOP-Cl,NA,NA,NA,NA,NA,NA
+134,D,2,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,ACETONITRILE,20,23,16,61.59786674,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+135,D,3,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,ACETONITRILE,20,23,16,21.95187042,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+136,D,4,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,ACETONITRILE,20,23,16,40.83936324,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+137,D,5,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,N-METHYL PYRROLIDINONE,20,23,16,13.40587124,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+138,D,6,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,N-METHYL PYRROLIDINONE,20,23,16,33.20219741,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+139,D,7,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,N-METHYL PYRROLIDINONE,20,23,16,18.25448842,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+140,D,8,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,N-METHYL PYRROLIDINONE,20,23,16,73.93991396,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+141,D,9,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,ACETONE,20,23,16,9.564456117,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+142,D,10,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,ACETONE,20,23,16,21.75686511,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+143,D,11,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,ACETONE,20,23,16,44.06502756,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+144,D,12,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,ACETONE,20,23,16,33.343346,Amidation,Round 3,NA,NA,NA,1.32,BOP-Cl,NA,NA,NA,NA,NA,NA
+145,E,1,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,DIMETHYLFORMAMIDE,20,23,16,83.661,Amidation,Round 3,NA,NA,NA,1.32,PFTU,NA,NA,NA,NA,NA,NA
+146,E,2,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,DIMETHYLFORMAMIDE,20,23,16,48.666,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+147,E,3,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,DIMETHYLFORMAMIDE,20,23,16,0,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+148,E,4,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,DIMETHYLFORMAMIDE,20,23,16,0,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+149,E,5,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,TETRAHYDROFURAN,20,23,16,53.49697176,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+150,E,6,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,TETRAHYDROFURAN,20,23,16,76.65179118,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+151,E,7,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,TETRAHYDROFURAN,20,23,16,31.42166432,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+152,E,8,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,TETRAHYDROFURAN,20,23,16,87.42311522,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+153,E,9,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,2-METHYLTETRAHYDROFURAN,20,23,16,45.85165296,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+154,E,10,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,2-METHYLTETRAHYDROFURAN,20,23,16,85.34376709,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+155,E,11,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,2-METHYLTETRAHYDROFURAN,20,23,16,85.8215677,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+156,E,12,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,2-METHYLTETRAHYDROFURAN,20,23,16,94.69933083,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+157,F,1,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,ACETONITRILE,20,23,16,22.69692117,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+158,F,2,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,ACETONITRILE,20,23,16,97.06353944,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+159,F,3,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,ACETONITRILE,20,23,16,60.08497648,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+160,F,4,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,ACETONITRILE,20,23,16,11.76802888,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+161,F,5,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,N-METHYL PYRROLIDINONE,20,23,16,0,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+162,F,6,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,N-METHYL PYRROLIDINONE,20,23,16,66.06638817,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+163,F,7,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,N-METHYL PYRROLIDINONE,20,23,16,21.49066305,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+164,F,8,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,N-METHYL PYRROLIDINONE,20,23,16,27.76961984,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+165,F,9,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,ACETONE,20,23,16,52.79458941,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+166,F,10,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,ACETONE,20,23,16,46.86389342,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+167,F,11,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,ACETONE,20,23,16,46.69842899,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+168,F,12,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,ACETONE,20,23,16,68.08700425,Amidation,Round 3,NA,NA,NA,1.5,PFTU,NA,NA,NA,NA,NA,NA
+169,G,1,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,DIMETHYLFORMAMIDE,20,23,16,0,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+170,G,2,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,DIMETHYLFORMAMIDE,20,23,16,0,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+171,G,3,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,DIMETHYLFORMAMIDE,20,23,16,0,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+172,G,4,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,DIMETHYLFORMAMIDE,20,23,16,0,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+173,G,5,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,TETRAHYDROFURAN,20,23,16,0.603120335,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+174,G,6,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,TETRAHYDROFURAN,20,23,16,75.26510598,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+175,G,7,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,TETRAHYDROFURAN,20,23,16,38.45050879,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+176,G,8,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,TETRAHYDROFURAN,20,23,16,46.89824216,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+177,G,9,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,2-METHYLTETRAHYDROFURAN,20,23,16,0.806525735,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+178,G,10,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,2-METHYLTETRAHYDROFURAN,20,23,16,75.22695109,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+179,G,11,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,2-METHYLTETRAHYDROFURAN,20,23,16,88.95990971,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+180,G,12,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,2-METHYLTETRAHYDROFURAN,20,23,16,68.44516958,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+181,H,1,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,ACETONITRILE,20,23,16,0.280850646,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+182,H,2,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,ACETONITRILE,20,23,16,98.8546439,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+183,H,3,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,ACETONITRILE,20,23,16,26.54818833,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+184,H,4,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,ACETONITRILE,20,23,16,16.80229321,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+185,H,5,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,N-METHYL PYRROLIDINONE,20,23,16,0.50567559,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+186,H,6,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,N-METHYL PYRROLIDINONE,20,23,16,17.30719839,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+187,H,7,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,N-METHYL PYRROLIDINONE,20,23,16,3.077653764,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+188,H,8,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,N-METHYL PYRROLIDINONE,20,23,16,16.66707665,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+189,H,9,Butynoic Acid,1.5,32.9,BMT-136986,1,1-Methylimidazole,3,ACETONE,20,23,16,0.553396773,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+190,H,10,Butynoic Acid,1.5,32.9,BMT-136986,1,"2,6-Lutidine",3,ACETONE,20,23,16,26.14272937,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+191,H,11,Butynoic Acid,1.5,32.9,BMT-136986,1,N-methylmorpholine,3,ACETONE,20,23,16,36.42595761,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+192,H,12,Butynoic Acid,1.5,32.9,BMT-136986,1,triethylamine,3,ACETONE,20,23,16,61.33813402,Amidation,Round 3,NA,NA,NA,1.62,TFFH,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Xantphos,0.05,100,95.79
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Xantphos,0.05,100,97.04
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,2.48,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Xantphos,0.05,100,95.14
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DPEphos,0.05,100,98.13
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DPEphos,0.05,100,98.64
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,1.44,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DPEphos,0.05,100,97.89
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0.56,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DCEPhos,0.05,100,97.75
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DCEPhos,0.05,100,98.56
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DCEPhos,0.05,100,94.07
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DCPP,0.05,100,99.24
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DCPP,0.05,100,100.00
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DCPP,0.05,100,100.00
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DPPBz,0.05,100,100.00
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DPPBz,0.05,100,100.00
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,4.36,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DPPBz,0.05,100,95.64
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DPPF,0.05,100,99.32
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DPPF,0.05,100,99.12
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DPPF,0.05,100,98.21
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DiPPF,0.05,100,99.44
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DiPPF,0.05,100,99.32
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DiPPF,0.05,100,96.93
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DtBPF,0.05,100,99.08
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DtBPF,0.05,100,99.20
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,0.88,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DtBPF,0.05,100,97.40
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0.86,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Cy-BIPHEP,0.05,100,98.06
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Cy-BIPHEP,0.05,100,98.89
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,2.2,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Cy-BIPHEP,0.05,100,96.01
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,BIPHEP,0.05,100,95.44
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,BIPHEP,0.05,100,95.38
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,1.25,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,BIPHEP,0.05,100,96.19
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,BINAP-rac,0.05,100,98.31
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0.58,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,BINAP-rac,0.05,100,94.78
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,6.25,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,BINAP-rac,0.05,100,90.56
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Tol-BINAP-R,0.05,100,97.96
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Tol-BINAP-R,0.05,100,96.61
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,1.17,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Tol-BINAP-R,0.05,100,98.83
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,H8-BINAP-R,0.05,100,98.92
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,H8-BINAP-R,0.05,100,96.45
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,1.98,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,H8-BINAP-R,0.05,100,95.12
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,SEGPHOS-R,0.05,100,99.09
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,SEGPHOS-R,0.05,100,98.52
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,1.89,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,SEGPHOS-R,0.05,100,97.22
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DIOP-(+),0.05,100,98.16
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DIOP-(+),0.05,100,92.59
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,DIOP-(+),0.05,100,100.00
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,SL-J001-1,0.05,100,96.80
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,SL-J001-1,0.05,100,96.12
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,SL-J001-1,0.05,100,97.73
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,SL-J004-1,0.05,100,97.06
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,SL-J004-1,0.05,100,96.61
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,0.73,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,SL-J004-1,0.05,100,95.94
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,SL-J005-1,0.05,100,97.42
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,SL-J005-1,0.05,100,96.26
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,0.76,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,SL-J005-1,0.05,100,97.48
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Sylphos,0.05,100,100.00
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Sylphos,0.05,100,96.26
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Sylphos,0.05,100,98.55
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Mor-DalPhos,0.1,100,97.72
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Mor-DalPhos,0.1,100,98.14
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,0.97,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Mor-DalPhos,0.1,100,96.48
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Me-DalPhos,0.1,100,98.99
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0.58,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Me-DalPhos,0.1,100,99.42
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,0.65,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Me-DalPhos,0.1,100,99.35
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,RuPhos,0.1,100,96.48
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,2.03,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,RuPhos,0.1,100,94.96
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,4.83,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,RuPhos,0.1,100,92.15
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0.8,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,S-Phos,0.1,100,95.35
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,1.74,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,S-Phos,0.1,100,94.17
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,3.86,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,S-Phos,0.1,100,91.78
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,CPhos,0.1,100,99.14
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,2.15,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,CPhos,0.1,100,95.06
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,4.96,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,CPhos,0.1,100,95.04
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0.54,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Cy-DavePhos,0.1,100,98.74
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Cy-DavePhos,0.1,100,99.20
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,0.6,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Cy-DavePhos,0.1,100,97.08
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,BrettPhos,0.1,100,100.00
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,BrettPhos,0.1,100,100.00
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,2.7,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,BrettPhos,0.1,100,97.30
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,X-Phos,0.1,100,100.00
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,X-Phos,0.1,100,100.00
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,0.97,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,X-Phos,0.1,100,99.03
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,TrixiePhos,0.1,100,77.06
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,TrixiePhos,0.1,100,81.02
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,1.45,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,TrixiePhos,0.1,100,79.63
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,2.01,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,CX-POMeCy,0.1,100,92.73
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,CX-POMeCy,0.1,100,94.75
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,CX-POMeCy,0.1,100,97.12
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,CX-POMetB,0.1,100,94.78
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,CX-POMetB,0.1,100,93.56
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,2.87,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,CX-POMetB,0.1,100,90.34
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Q-Phos,0.1,100,99.08
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,1.79,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Q-Phos,0.1,100,95.22
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,4.4,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Q-Phos,0.1,100,94.60
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Toluene,NA,90,17.1,0,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Ad-BippyPhos,0.1,100,100.00
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,Dioxane,NA,90,17.1,0.6,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Ad-BippyPhos,0.1,100,94.28
+NA,NA,NA,NA,NA,10,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,90,17.1,1.14,Pd CN Coupling,Round 1,NA,NA,NA,NA,NA,Pd2(dba)3,0.0225,Ad-BippyPhos,0.1,100,94.12
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,3.963055556,0.8,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,BINAP-rac,0.055,85,96.38
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,3.963055556,0.8,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,BINAP-rac,0.055,85,96.20
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,3.963055556,0.8,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,BINAP-rac,0.055,85,96.11
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,3.963055556,0.84,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,BINAP-rac,0.055,85,95.94
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,DMAc,NA,85,3.963055556,1.3,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,BINAP-rac,0.055,85,94.82
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,3.963055556,1.1,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd(OAc)2,0.05,BINAP-rac,0.055,85,97.21
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,3.963055556,6.53,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,RuPhos,0.11,85,89.47
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,3.963055556,6.22,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,RuPhos,0.11,85,89.90
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,3.963055556,3.38,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,RuPhos,0.11,85,92.70
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,3.963055556,3.35,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,RuPhos,0.11,85,92.54
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,DMAc,NA,85,3.963055556,1.16,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,RuPhos,0.11,85,95.78
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,3.963055556,1.03,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd(OAc)2,0.05,RuPhos,0.11,85,95.84
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,14.37083333,5.7,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,BINAP-rac,0.055,85,90.10
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,14.37083333,4.86,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,BINAP-rac,0.055,85,90.70
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,14.37083194,2.39,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,BINAP-rac,0.055,85,93.42
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,14.37083194,2.3,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,BINAP-rac,0.055,85,93.30
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,DMAc,NA,85,14.37083194,3.08,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,BINAP-rac,0.055,85,91.47
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,14.37083194,11.59,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd(OAc)2,0.05,BINAP-rac,0.055,85,88.41
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,14.37083194,7.58,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,RuPhos,0.11,85,88.54
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,14.37083194,7.72,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,RuPhos,0.11,85,88.43
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,14.37083194,4.04,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,RuPhos,0.11,85,91.95
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,14.37083194,3.79,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,RuPhos,0.11,85,92.03
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,DMAc,NA,85,14.37083194,2.09,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd2(dba)3,0.025,RuPhos,0.11,85,94.24
+NA,NA,NA,NA,NA,50,NA,1.2,Cs2CO3,3.5,t-AmOH,NA,85,14.37083333,1.7,Pd CN Coupling,Round 2,NA,NA,NA,NA,NA,Pd(OAc)2,0.05,RuPhos,0.11,85,95.02
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,1.21,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Xantphos,0.05,100,95.93
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,1.75,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Xantphos,0.05,100,95.28
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,3.8,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Xantphos,0.05,100,15.85
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,DPEphos,0.05,100,27.77
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,2.09,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,DPEphos,0.05,100,94.12
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,DPEphos,0.05,100,72.74
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,DCEPhos,0.05,100,94.03
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,DCEPhos,0.05,100,91.87
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,DCEPhos,0.05,100,91.91
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,DPPF,0.05,100,98.15
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,DPPF,0.05,100,95.86
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,DPPF,0.05,100,97.93
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,DCyPF,0.05,100,97.23
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,DCyPF,0.05,100,94.58
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,DCyPF,0.05,100,94.23
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Cy-BIPHEP,0.05,100,94.15
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Cy-BIPHEP,0.05,100,97.36
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Cy-BIPHEP,0.05,100,98.42
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,BINAP-rac,0.05,100,97.77
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,BINAP-rac,0.05,100,94.63
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,BINAP-rac,0.05,100,26.43
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,DPPB,0.05,100,98.56
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,DPPB,0.05,100,96.53
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,DPPB,0.05,100,96.16
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,SL-J001-1,0.05,100,97.40
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,SL-J001-1,0.05,100,95.33
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,SL-J001-1,0.05,100,92.33
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,SL-J002-1,0.05,100,96.44
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,SL-J002-1,0.05,100,88.13
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,SL-J002-1,0.05,100,85.11
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,SL-J009-1,0.05,100,98.87
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,SL-J009-1,0.05,100,88.61
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,SL-J009-1,0.05,100,85.84
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Mor-DalPhos,0.1,100,96.20
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Mor-DalPhos,0.1,100,92.83
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Mor-DalPhos,0.1,100,96.73
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Me-DalPhos,0.1,100,96.47
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Me-DalPhos,0.1,100,96.73
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Me-DalPhos,0.1,100,95.22
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,LB-Phos HBF4,0.1,100,94.04
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,LB-Phos HBF4,0.1,100,93.32
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,LB-Phos HBF4,0.1,100,94.29
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,1.99,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,CX-PICy,0.1,100,95.69
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,2.74,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,CX-PICy,0.1,100,96.27
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,3.51,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,CX-PICy,0.1,100,95.68
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0.11,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Cy-vBRIDP,0.1,100,98.26
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Cy-vBRIDP,0.1,100,97.22
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0.67,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Cy-vBRIDP,0.1,100,97.92
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0.83,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,RuPhos,0.1,100,30.51
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,1.03,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,RuPhos,0.1,100,33.25
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,1.1,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,RuPhos,0.1,100,11.51
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,2.36,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,CPhos,0.1,100,93.40
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,4.46,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,CPhos,0.1,100,91.43
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,CPhos,0.1,100,95.41
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0.84,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,S-Phos,0.1,100,99.16
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,2.58,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,S-Phos,0.1,100,97.42
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0.77,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,S-Phos,0.1,100,99.23
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0.25,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,X-Phos,0.1,100,95.61
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,4.85,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,X-Phos,0.1,100,88.23
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,1.97,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,X-Phos,0.1,100,92.39
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,8.54,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,BrettPhos,0.1,100,83.54
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,21.6,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,BrettPhos,0.1,100,72.54
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,7.06,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,BrettPhos,0.1,100,84.36
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,4.86,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,iso-BrettPhos,0.1,100,65.30
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,6.23,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,iso-BrettPhos,0.1,100,85.92
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,6.2,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,iso-BrettPhos,0.1,100,83.13
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,tB-BrettPhos,0.1,100,75.07
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,0.93,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,tB-BrettPhos,0.1,100,97.77
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,tB-BrettPhos,0.1,100,95.14
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,1.29,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,tB-XPhos,0.1,100,39.87
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,0.81,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,tB-XPhos,0.1,100,25.86
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0.82,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,tB-XPhos,0.1,100,61.53
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,4.24,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,TrixiePhos,0.1,100,95.41
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,48.51,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,TrixiePhos,0.1,100,37.52
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,34.19,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,TrixiePhos,0.1,100,65.70
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0.6,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Cy-DavePhos,0.1,100,75.89
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,2.82,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Cy-DavePhos,0.1,100,95.52
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,1.25,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Cy-DavePhos,0.1,100,97.24
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0.59,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,CM-Phos,0.1,100,76.97
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,0.63,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,CM-Phos,0.1,100,97.88
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,CM-Phos,0.1,100,97.58
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,MeO-KITPHOS,0.1,100,75.84
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,MeO-KITPHOS,0.1,100,96.98
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,0,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,MeO-KITPHOS,0.1,100,96.22
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,0.87,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Symphos,0.1,100,75.40
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,2.41,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Symphos,0.1,100,96.06
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,2.65,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Symphos,0.1,100,96.38
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,4.12,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Q-Phos,0.1,100,62.64
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,35.25,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Q-Phos,0.1,100,47.65
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,20.09,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,Q-Phos,0.1,100,66.19
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,3.33,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,CX-POMetB,0.1,100,73.30
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,23.7,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,CX-POMetB,0.1,100,69.56
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,4.18,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,CX-POMetB,0.1,100,88.15
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,50:50 Toluene:NMP,NA,45,14.12611111,2.15,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,tB-BippyPhos,0.1,100,66.64
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,Dioxane,NA,45,14.12611111,5.29,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,tB-BippyPhos,0.1,100,84.35
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,2.5,t-AmOH,NA,45,14.12611111,6.02,Pd CN Coupling,Round 3,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.0225,tB-BippyPhos,0.1,100,81.01
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,1.965277778,38.8,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,BrettPhos,0.055,300,54.19
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,1.965277778,40.42,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,BrettPhos,0.075,300,51.91
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,1.965276389,43.53,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,BrettPhos,0.11,300,48.83
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,1.965276389,40.76,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,BrettPhos,0.15,300,52.26
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,1.965276389,30.2,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.02,BrettPhos,0.088,300,65.20
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,1.965276389,30.32,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.015,BrettPhos,0.066,300,64.83
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,1.965276389,5.77,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,Q-Phos,0.11,300,90.64
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,1.965276389,5.75,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,CX-POMetB,0.11,300,91.35
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,1.965276389,2.28,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,TrixiePhos,0.11,300,87.05
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,1.965276389,0,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,tB-XPhos,0.11,300,99.30
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,1.965276389,87.85,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,tB-XPhos-Pd-G1,0.05,NA,0.05,300,1.85
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,1.965276389,54.71,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,BrettPhos Pd-G1,0.05,NA,0.05,300,36.01
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,15.62805556,69.16,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,BrettPhos,0.055,300,13.10
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,15.62805556,76.35,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,BrettPhos,0.075,300,6.81
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,15.62805417,73.46,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,BrettPhos,0.11,300,7.65
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,15.62805417,78.12,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,BrettPhos,0.15,300,5.31
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,15.62805417,58.52,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.02,BrettPhos,0.088,300,28.53
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,15.62805417,52.52,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.015,BrettPhos,0.066,300,34.25
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,15.62805417,12.31,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,Q-Phos,0.11,300,79.98
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,15.62805417,4.95,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,CX-POMetB,0.11,300,90.50
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,15.62805417,7.62,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,TrixiePhos,0.11,300,79.94
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,15.62805417,0.74,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,tB-XPhos,0.11,300,98.46
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,15.62805417,75.65,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,tB-XPhos-Pd-G1,0.05,NA,0.05,300,4.81
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,30,15.62805417,84.32,Pd CN Coupling,Round 4,NA,NA,NA,NA,NA,BrettPhos Pd-G1,0.05,NA,0.05,300,1.65
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,12.28416667,30.79,Pd CN Coupling,Round 5,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,BrettPhos,0.1,300,64.39
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,12.28416667,0.88,Pd CN Coupling,Round 5,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,tB-XPhos,0.1,300,95.75
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,12.28416806,0,Pd CN Coupling,Round 5,NA,NA,NA,NA,NA,Pd(OAc)2,0.05,tB-XPhos,0.1,300,95.88
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,12.28416806,0,Pd CN Coupling,Round 5,NA,NA,NA,NA,NA,Pd(OAc)2,0.05,tB-XPhos,0.1,300,95.88
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,12.28416806,31.3,Pd CN Coupling,Round 5,NA,NA,NA,NA,NA,Pd(TFA)2,0.05,tB-XPhos,0.1,300,60.21
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,12.28416806,20.07,Pd CN Coupling,Round 5,NA,NA,NA,NA,NA,PdCl2(MeCN)2,0.05,tB-XPhos,0.1,300,73.71
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,12.28416806,0,Pd CN Coupling,Round 5,NA,NA,NA,NA,NA,[(Cinnamyl)PdCl]2,0.025,tB-XPhos,0.1,300,96.63
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,12.28416806,2.36,Pd CN Coupling,Round 5,NA,NA,NA,NA,NA,Pd(dba)2,0.05,tB-XPhos,0.1,300,93.91
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,12.28416806,0.9,Pd CN Coupling,Round 5,NA,NA,NA,NA,NA,Pd(P(o-tol)3)2,0.05,tB-XPhos,0.1,300,91.98
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,12.28416806,1,Pd CN Coupling,Round 5,NA,NA,NA,NA,NA,Pd-G3 dimer,0.025,tB-XPhos,0.1,300,93.97
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,12.28416806,80.01,Pd CN Coupling,Round 5,NA,NA,NA,NA,NA,tB-XPhos-Pd-G3,0.05,NA,0.05,300,1.65
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,12.28416806,87.8,Pd CN Coupling,Round 5,NA,NA,NA,NA,NA,tB-XPhos-Pd-G1,0.05,NA,0.05,300,2.06
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,1.339166667,0.84,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,tB-XPhos,0.1,300,95.74
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,1.339166667,83.05,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.1,300,8.46
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,1.339168056,82.66,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.06,300,9.75
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,1.339168056,33.08,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,Pd(TFA)2,0.05,tB-XPhos,0.1,300,61.03
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,1.339168056,31.25,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,Pd(TFA)2,0.05,tB-XPhos,0.1,300,62.46
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,1.339168056,17.11,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,Pd(TFA)2,0.05,tB-XPhos,0.1,300,75.54
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,1.339168056,31.03,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,Pd(TFA)2,0.05,tB-XPhos,0.1,300,62.63
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,1.339168056,28.67,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,PdCl2(MeCN)2,0.05,tB-XPhos,0.1,300,66.69
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,1.339168056,38.2,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,PdCl2(MeCN)2,0.05,tB-XPhos,0.1,300,56.92
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,1.339168056,18.19,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,PdCl2(MeCN)2,0.05,tB-XPhos,0.1,300,75.60
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,1.339168056,19.72,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,PdCl2(MeCN)2,0.05,tB-XPhos,0.1,300,74.91
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,1.339168056,92.83,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,tB-XPhos-Pd-G1,0.05,tB-XPhos,0.05,300,0.33
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,15.34611111,0.85,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,[(Allyl)PdCl]2,0.025,tB-XPhos,0.1,300,95.71
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,15.34611111,82,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.1,300,3.44
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,15.34611111,83.25,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.06,300,3.39
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,15.34611111,36.61,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,Pd(TFA)2,0.05,tB-XPhos,0.1,300,53.46
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,15.34611111,34.65,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,Pd(TFA)2,0.05,tB-XPhos,0.1,300,55.26
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,15.34611111,25.4,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,Pd(TFA)2,0.05,tB-XPhos,0.1,300,60.37
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,15.34611111,33.09,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,Pd(TFA)2,0.05,tB-XPhos,0.1,300,56.85
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,15.34611111,28.46,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,PdCl2(MeCN)2,0.05,tB-XPhos,0.1,300,64.25
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,15.34611111,37.94,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,PdCl2(MeCN)2,0.05,tB-XPhos,0.1,300,53.38
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,15.34611111,27.27,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,PdCl2(MeCN)2,0.05,tB-XPhos,0.1,300,62.72
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,15.34611111,18.49,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,PdCl2(MeCN)2,0.05,tB-XPhos,0.1,300,74.59
+NA,NA,NA,NA,NA,50,NA,1.2,NaOt-Bu,3,THF,NA,20,15.3461125,85.65,Pd CN Coupling,Round 6,NA,NA,NA,NA,NA,tB-XPhos-Pd-G1,0.05,tB-XPhos,0.05,300,3.21
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01861111,4.35,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,Xantphos,0.05,100,86.75
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01861111,2.55,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,Xantphos,0.05,100,92.18
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.96,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,Xantphos,0.05,100,87.30
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.91,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,Xantphos,0.05,100,90.69
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,0.24,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,DPEphos,0.05,100,96.32
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,0.21,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,DPEphos,0.05,100,97.01
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.07,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,DPEphos,0.05,100,96.17
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.16,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,DPEphos,0.05,100,95.92
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,0.15,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,DCEPhos,0.05,100,94.95
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,0.09,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,DCEPhos,0.05,100,94.32
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,DCEPhos,0.05,100,95.55
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,DCEPhos,0.05,100,94.58
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,1.29,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,DPPF,0.05,100,94.76
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,0.81,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,DPPF,0.05,100,95.52
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,1.1,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,DPPF,0.05,100,94.46
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.82,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,DPPF,0.05,100,95.08
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,0.49,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,DCyPF,0.05,100,95.77
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,0.61,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,DCyPF,0.05,100,95.49
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.05,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,DCyPF,0.05,100,94.50
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.1,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,DCyPF,0.05,100,94.60
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,2.01,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,BINAP-rac,0.05,100,90.17
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,2.51,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,BINAP-rac,0.05,100,87.13
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,1.56,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,BINAP-rac,0.05,100,90.67
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,1.26,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,BINAP-rac,0.05,100,90.70
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,0.04,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,DPPB,0.05,100,94.41
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,0.25,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,DPPB,0.05,100,95.18
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.16,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,DPPB,0.05,100,96.00
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.2,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,DPPB,0.05,100,94.73
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,2.5,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,SL-J002-1,0.05,100,89.62
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,1.89,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,SL-J002-1,0.05,100,92.50
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.39,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,SL-J002-1,0.05,100,92.48
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.65,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,SL-J002-1,0.05,100,92.57
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,3.82,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,SL-J009-1,0.05,100,92.68
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,3.45,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,SL-J009-1,0.05,100,93.13
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,3.73,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,SL-J009-1,0.05,100,91.78
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,3.15,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,SL-J009-1,0.05,100,93.59
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,0.36,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,PCy3,0.1,100,95.79
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,0.15,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,PCy3,0.1,100,96.67
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.36,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,PCy3,0.1,100,94.27
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.18,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,PCy3,0.1,100,95.71
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,0.25,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,PtBu3 HBF4,0.1,100,95.71
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,0.26,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,PtBu3 HBF4,0.1,100,96.17
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.18,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,PtBu3 HBF4,0.1,100,96.00
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.17,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,PtBu3 HBF4,0.1,100,95.64
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,1.42,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,Mor-DalPhos,0.1,100,93.23
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,1.45,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,Mor-DalPhos,0.1,100,93.75
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.25,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,Mor-DalPhos,0.1,100,94.24
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.2,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,Mor-DalPhos,0.1,100,96.49
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,1.91,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,CX-PICy,0.1,100,94.11
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,1.71,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,CX-PICy,0.1,100,94.53
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,1.74,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,CX-PICy,0.1,100,95.03
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,1.67,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,CX-PICy,0.1,100,93.91
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,3.05,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,CPhos,0.1,100,88.20
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,3.22,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,CPhos,0.1,100,86.87
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.65,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,CPhos,0.1,100,89.24
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.88,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,CPhos,0.1,100,86.95
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,4,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,RuPhos,0.1,100,93.00
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,2.33,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,RuPhos,0.1,100,94.67
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.61,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,RuPhos,0.1,100,96.98
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.53,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,RuPhos,0.1,100,96.32
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,1.22,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,X-Phos,0.1,100,96.12
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,1.61,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,X-Phos,0.1,100,94.96
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,3.14,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,X-Phos,0.1,100,93.41
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,3.54,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,X-Phos,0.1,100,91.93
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,5.59,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,BrettPhos,0.1,100,92.04
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,42.21,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,BrettPhos,0.1,100,53.17
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.49,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,BrettPhos,0.1,100,96.76
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.92,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,BrettPhos,0.1,100,94.76
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,0.19,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,tB-BrettPhos,0.1,100,97.48
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,30.08,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,tB-BrettPhos,0.1,100,53.85
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.21,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,tB-BrettPhos,0.1,100,97.24
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.36,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,tB-BrettPhos,0.1,100,86.85
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,0.38,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,tB-XPhos,0.1,100,96.87
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,66.78,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,tB-XPhos,0.1,100,20.21
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.4,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,tB-XPhos,0.1,100,96.69
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,42.6,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,tB-XPhos,0.1,100,37.71
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,0.65,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,TrixiePhos,0.1,100,90.24
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,5.22,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,TrixiePhos,0.1,100,87.25
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.61,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,TrixiePhos,0.1,100,89.81
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,12.32,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,TrixiePhos,0.1,100,74.20
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,2.71,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,Cy-DavePhos,0.1,100,91.49
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,1.14,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,Cy-DavePhos,0.1,100,93.90
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,1.05,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,Cy-DavePhos,0.1,100,96.39
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.41,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,Cy-DavePhos,0.1,100,94.52
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,13.74,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,Q-Phos,0.1,100,80.31
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,21.09,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,Q-Phos,0.1,100,70.61
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,10.85,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,Q-Phos,0.1,100,81.35
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,20.32,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,Q-Phos,0.1,100,68.83
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,4.84,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,CX-POMetB,0.1,100,90.45
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,12.31,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,CX-POMetB,0.1,100,80.06
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,2.86,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,CX-POMetB,0.1,100,89.71
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,3.68,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,CX-POMetB,0.1,100,92.20
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,0.16,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,tB-BippyPhos,0.1,100,81.17
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,THF,NA,20,17.01860972,2.33,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,tB-BippyPhos,0.1,100,81.29
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,0.18,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Crotyl)PdCl]2,0.0225,tB-BippyPhos,0.1,100,80.74
+NA,NA,NA,NA,NA,10,NA,1.2,NaOt-Bu,3,t-AmOH,NA,20,17.01860972,1.59,Pd CN Coupling,Round 7,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.045,tB-BippyPhos,0.1,100,81.23
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,0.930277778,15,72.95,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.06,500,20.38
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,0.930277778,15,66.54,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.04,tB-XPhos,0.048,500,27.88
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,0.930277778,15,56.67,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.03,tB-XPhos,0.036,500,39.11
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,0.930277778,15,74.31,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.055,500,19.58
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,0.930277778,15,82.68,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,"""[(Crotyl)Pd]OTf""",0.05,tB-XPhos,0.05,500,10.25
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,0.930277778,15,87.58,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,"""[(Cinnamyl)Pd]OTf""",0.05,tB-XPhos,0.05,500,4.04
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,0.930277778,15,77.34,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.05,500,16.38
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,0.930277778,15,71.54,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.05,500,21.79
+NA,NA,NA,NA,NA,100,NA,1.1,NaOt-Bu,3,THF,NA,0.930277778,15,74.15,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.05,500,19.94
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,0.930277778,15,71.34,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.05,400,21.54
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,2-MeTHF,NA,0.930277778,15,70.37,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.05,500,23.89
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,0.930277778,15,92.23,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,tB-XPhos-Pd-G1,0.05,tB-XPhos,0.05,500,0.89
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,15.9725,15,87.33,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.06,500,0.77
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,15.9725,15,88.33,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.04,tB-XPhos,0.048,500,#VALUE!
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,15.97250139,15,72.62,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.03,tB-XPhos,0.036,500,18.71
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,15.97250139,15,87.86,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.055,500,#VALUE!
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,15.97250139,15,87.4,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,"""[(Crotyl)Pd]OTf""",0.05,tB-XPhos,0.05,500,#VALUE!
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,15.97250139,15,86.88,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,"""[(Cinnamyl)Pd]OTf""",0.05,tB-XPhos,0.05,500,#VALUE!
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,15.97250139,15,89.96,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.05,500,1.49
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,15.97250139,15,86.67,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.05,500,#VALUE!
+NA,NA,NA,NA,NA,100,NA,1.1,NaOt-Bu,3,THF,NA,15.97250139,15,88.15,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.05,500,0.84
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,15.97250139,15,85.72,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.05,400,#VALUE!
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,2-MeTHF,NA,15.97250139,15,88.9,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,[(Allyl)Pd]OTf,0.05,tB-XPhos,0.05,500,1.45
+NA,NA,NA,NA,NA,100,NA,1.2,NaOt-Bu,3,THF,NA,15.97250139,15,89.01,Pd CN Coupling,Round 8,NA,NA,NA,NA,NA,tB-XPhos-Pd-G1,0.05,tB-XPhos,0.05,500,#VALUE!
