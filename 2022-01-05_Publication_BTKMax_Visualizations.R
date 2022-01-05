@@ -1,7 +1,6 @@
 # Prepare visualizations for the BTK Max Route innovation paper
 
 library(tidyverse)
-library(readxl)
 
 df <- read_csv("2022-01-05_Publication_BTKMax_TidyData.csv")
 
